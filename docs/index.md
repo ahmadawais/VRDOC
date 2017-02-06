@@ -20,4 +20,4 @@ If you like this theme, then support us by rating it with 5 stars.
     Find a bug in the documentation? Create an [issue here](https://github.com/ahmadawais/vrdoc/issues/new)!
 
 !!! warning "DISCLAIMER"
-    We offer limited support for theme customers. We only provide support for our themes and their core features. We cannot guarantee that our themes will work properly with all the third party plugins and server environments. If you plan on adding numerous plugins to this theme then please note, we cannot facilitate support for any conflicts that may arise with this theme’s default functionality. The ProductPress WordPress theme is presented as it is.
+    We provide limited support. The support is only provided for our products, without any facilitation of 3rd party products or integration. To get support, you should have an active support package. You get free 6-months support when you first buy this theme.
