@@ -62,13 +62,48 @@
         }, 
         {
             "location": "/customization/", 
-            "text": "CUSTOMIZATION\n\n\n\n\nCUSTOMIZER\n\n\nVacationRentals\n WordPress theme can be customized to suit your needs. It uses \nWordPress Customizer\n to help you customize the settings.", 
+            "text": "CUSTOMIZATION\n\n\n\n\nCUSTOMIZER\n\n\nVacationRentals\n WordPress theme can be customized to suit your needs. It uses \nWordPress Customizer\n to help you customize the settings. \n\n\n\n\nCustomize\n\n\nTo customize \nVacationRentals\n theme, do the following.\n\n\n\n\nACCESS\n your WordPress site admin dashboard.\n\n\nOPEN\n the \nWordPress Customizer\n by clicking \nAppearance \n Customize\n.\n\n\n\n\n\n\n\n\nVacation Rentals Options\n\n\nInside customizer you'll find a menu called \nVacation Rentals Options\n. That's where the magic happens. You can customize this theme to suit your needs from this menu.\n\n\n\n\n\n\nOptions\n\n\nYou can find the following options to customize this theme.\n\n\n\n\n\n\nHeader Settings\n\n\nTheme header can be customized from here. You can make following changes in the header:\n\n\n\n\nHIDE \nCall Us\n section.\n\n\nChange \nCall Us\n text.\n\n\nAdd your phone number.\n\n\nChange \nMail Us\n text.\n\n\nAdd your email address.\n\n\nHIDE social media icons.\n\n\n\n\n\n\n\n\nSocial Settings\n\n\nSocial settings can be customized from here. You can make following changes:\n\n\n\n\nHIDE\n a social icon.\n\n\nAdd\n your social links.\n\n\n\n\n \nSocial Icons\n are available for:\n\n\n\n\nFacebook\n\n\nTwitter\n\n\nGoogle Plus\n\n\nSkype\n\n\nLinkedIn\n\n\nYoutube\n\n\nInstagram\n\n\nVimeo\n\n\n\n\n\n\n\n\nSingle Rental Settings\n\n\nSingle Rental settings can be customized from here. You can make following changes:\n\n\n\n\nHIDE\n the Slider (for single rental listings).\n\n\nHIDE\n the Address (for single rental listings).\n\n\nHIDE\n the Price (for single rental listings).\n\n\nHIDE\n the Beds (for single rental listings).\n\n\nHIDE\n the Guests (for single rental listings).\n\n\nHIDE\n the Baths (for single rental listings).\n\n\nHIDE\n the Features (for single rental listings).\n\n\nHIDE\n the Map (for single rental listings).\n\n\nHIDE\n the Video (for single rental listings).\n\n\nHIDE\n the Reviews (for single rental listings).\n\n\nHIDE\n the Booking (for single rental listings).\n\n\nHIDE\n the Agent (for single rental listings).\n\n\nHIDE\n the Similar Rentals (for single rental listings).\n\n\nADD\n \nBooking Widget\n Description which add a general description for booking widget on all single rental listings.\n\n\nADD\n Booking Widget Points. Example: [vr_point] Your Point [/vr_point]. \nWhich adds points at the end of the booking widget on all single rental listings.\n\n\n\n\n\n\n\n\nMembership Settings\n\n\nMembership settings can be customized from here. You can make following changes:\n\n\n\n\n\n\nSELECT\n the \nLogin\n page \n\n\n (Add a new page with \nLogin VR\n page template and select it here).\n\n\n\n\n\n\nSELECT\n the \nRegister\n page \n\n\n (Add a new page with \nRegister VR\n page template and select it here).\n\n\n\n\n\n\nSELECT\n the \nReset\n page \n\n\n (Add a new page with \nReset VR\n page template and select it here).", 
             "title": "3. CUSTOMIZATION"
         }, 
         {
             "location": "/customization/#customization", 
             "text": "CUSTOMIZER  VacationRentals  WordPress theme can be customized to suit your needs. It uses  WordPress Customizer  to help you customize the settings.", 
             "title": "CUSTOMIZATION"
+        }, 
+        {
+            "location": "/customization/#customize", 
+            "text": "To customize  VacationRentals  theme, do the following.   ACCESS  your WordPress site admin dashboard.  OPEN  the  WordPress Customizer  by clicking  Appearance   Customize .", 
+            "title": "Customize"
+        }, 
+        {
+            "location": "/customization/#vacation-rentals-options", 
+            "text": "Inside customizer you'll find a menu called  Vacation Rentals Options . That's where the magic happens. You can customize this theme to suit your needs from this menu.", 
+            "title": "Vacation Rentals Options"
+        }, 
+        {
+            "location": "/customization/#options", 
+            "text": "You can find the following options to customize this theme.", 
+            "title": "Options"
+        }, 
+        {
+            "location": "/customization/#header-settings", 
+            "text": "Theme header can be customized from here. You can make following changes in the header:   HIDE  Call Us  section.  Change  Call Us  text.  Add your phone number.  Change  Mail Us  text.  Add your email address.  HIDE social media icons.", 
+            "title": "Header Settings"
+        }, 
+        {
+            "location": "/customization/#social-settings", 
+            "text": "Social settings can be customized from here. You can make following changes:   HIDE  a social icon.  Add  your social links.     Social Icons  are available for:   Facebook  Twitter  Google Plus  Skype  LinkedIn  Youtube  Instagram  Vimeo", 
+            "title": "Social Settings"
+        }, 
+        {
+            "location": "/customization/#single-rental-settings", 
+            "text": "Single Rental settings can be customized from here. You can make following changes:   HIDE  the Slider (for single rental listings).  HIDE  the Address (for single rental listings).  HIDE  the Price (for single rental listings).  HIDE  the Beds (for single rental listings).  HIDE  the Guests (for single rental listings).  HIDE  the Baths (for single rental listings).  HIDE  the Features (for single rental listings).  HIDE  the Map (for single rental listings).  HIDE  the Video (for single rental listings).  HIDE  the Reviews (for single rental listings).  HIDE  the Booking (for single rental listings).  HIDE  the Agent (for single rental listings).  HIDE  the Similar Rentals (for single rental listings).  ADD   Booking Widget  Description which add a general description for booking widget on all single rental listings.  ADD  Booking Widget Points. Example: [vr_point] Your Point [/vr_point]. \nWhich adds points at the end of the booking widget on all single rental listings.", 
+            "title": "Single Rental Settings"
+        }, 
+        {
+            "location": "/customization/#membership-settings", 
+            "text": "Membership settings can be customized from here. You can make following changes:    SELECT  the  Login  page    (Add a new page with  Login VR  page template and select it here).    SELECT  the  Register  page    (Add a new page with  Register VR  page template and select it here).    SELECT  the  Reset  page    (Add a new page with  Reset VR  page template and select it here).", 
+            "title": "Membership Settings"
         }
     ]
 }
