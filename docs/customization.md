@@ -104,3 +104,21 @@ Membership settings can be customized from here. You can make following changes:
 
 ![img](img/vr-7.jpg)
 
+
+---
+
+#### Single Blog Post Settings
+Single Blog Post settings can be customized from here. You can make following changes:
+
+- **HIDE** the Author Box (for single blog posts)..
+
+![img](img/vr-8.jpg)
+
+---
+
+#### Category/Term Settings
+Category/Term settings can be customized from here. You can make following changes:
+
+- **UPLOAD** a default image for category/term!
+
+![img](img/vr-9.jpg)
