@@ -3,5 +3,16 @@
 - [ ] Theme Setup
     - [x] Content
     - [ ] Images
-- [ ] Customization
+- [x] Customization
+    - [x] Customize
+    - [x] Vacation Rentals Options
+    - [x] Options
+    - [x] Header Settings
+    - [x] Social Settings
+    - [x] Single Rental Settings
+    - [x] Membership Settings
+    - [x] Single Blog Post Settings
+    - [x] Category/Term Settings
+    - [x] Footer Settings
+    - [x] General Theme Settings
 - [ ] Rentals

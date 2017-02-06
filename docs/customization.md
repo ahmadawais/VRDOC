@@ -31,12 +31,12 @@ You can find the following options to customize this theme.
 #### Header Settings
 Theme header can be customized from here. You can make following changes in the header:
 
-- HIDE `Call Us` section.
+- **HIDE** `Call Us` section.
 - Change `Call Us` text.
-- Add your phone number.
+- **ADD** your phone number.
 - Change `Mail Us` text.
-- Add your email address.
-- HIDE social media icons.
+- **ADD** your email address.
+- **HIDE** social media icons.
 
 ![img](img/vr-4.jpg)
 
@@ -79,7 +79,7 @@ Single Rental settings can be customized from here. You can make following chang
 - **HIDE** the Booking (for single rental listings).
 - **HIDE** the Agent (for single rental listings).
 - **HIDE** the Similar Rentals (for single rental listings).
-- **ADD** `Booking Widget` Description which add a general description for booking widget on all single rental listings.
+- **ADD** `Booking Widget` Description which **ADD** a general description for booking widget on all single rental listings.
 - **ADD** Booking Widget Points. Example: [vr_point] Your Point [/vr_point]. 
 Which adds points at the end of the booking widget on all single rental listings.
 
@@ -92,15 +92,15 @@ Membership settings can be customized from here. You can make following changes:
 
 - **SELECT** the `Login` page 
     
-     :point_right: (Add a new page with `Login VR` page template and select it here).
+     :point_right: (**ADD** a new page with `Login VR` page template and select it here).
 
 - **SELECT** the `Register` page 
     
-     :point_right: (Add a new page with `Register VR` page template and select it here).
+     :point_right: (**ADD** a new page with `Register VR` page template and select it here).
 
 - **SELECT** the `Reset` page 
     
-     :point_right: (Add a new page with `Reset VR` page template and select it here).
+     :point_right: (**ADD** a new page with `Reset VR` page template and select it here).
 
 ![img](img/vr-7.jpg)
 
@@ -122,3 +122,32 @@ Category/Term settings can be customized from here. You can make following chang
 - **UPLOAD** a default image for category/term!
 
 ![img](img/vr-9.jpg)
+
+---
+
+#### Footer Settings
+Footer settings can be customized from here. You can make following changes:
+
+- **HIDE** Call to Action Section in the footer.
+- **UPLOAD** a background image for CTA Section.
+- **ADD** a heading for call to action section.
+- **ADD** a description for call to action section.
+- **ADD** button text for call to action button.
+- **ADD** a URL for call to action button.
+- **UPLOAD** a footer logo
+- **HIDE** Social Icons in the footer.
+- **ADD** footer credits (Basic HTML tags are allowed E.g. Link)
+
+![img](img/vr-10.jpg)
+
+---
+
+#### General Theme Settings
+General Theme settings can be customized from here. You can make following changes:
+
+- **DISABLE** Page Load Animation.
+- **DISPLAY** page load animations.
+- **OPEN** Navigation Menu by default.
+- **DISPLAY** navigation Menu by default.
+
+![img](img/vr-11.jpg)
