@@ -15,7 +15,7 @@ theme: 'material'
 theme_dir: 'mkdocs-material/material'
 
 pages:
-    - Home: index.md
+    - Getting Started: index.md
     - About: about.md
     - Eg: eg.md
 
