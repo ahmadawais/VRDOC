@@ -21,7 +21,7 @@ pages:
 
 extra:
   palette:
-    primary: 'deep purple'
+    primary: 'indego'
     accent: 'deep orange'
   font:
       text: 'Open Sans'
