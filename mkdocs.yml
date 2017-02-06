@@ -17,7 +17,7 @@ theme_dir: 'mkdocs-material/material'
 pages:
     - Home: index.md
     - About: about.md
-    - Demo: demo.md
+    - Eg: eg.md
 
 extra:
   palette:
