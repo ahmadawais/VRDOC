@@ -16,3 +16,7 @@
     - [x] Footer Settings
     - [x] General Theme Settings
 - [ ] Rentals
+- [ ] BOOKINGS
+- [ ] AGENTS
+- [ ] PARTNERS
+- [ ] SETTINGS

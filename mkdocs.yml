@@ -19,6 +19,11 @@ pages:
     - 1. GET STARTED: index.md
     - 2. SETUP: setup.md
     - 3. CUSTOMIZATION: customization.md
+    - 4. RENTALS: rentals.md
+    - 5. BOOKINGS: bookings.md
+    - 6. AGENTS: agents.md
+    - 7. PARTNERS: partners.md
+    - 7. SETTINGS: settings.md
       # - INSTALLATION: setup/installation.md
     # - Eg: eg.md
 
