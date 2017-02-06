@@ -89,8 +89,7 @@ Single Rental settings can be customized from here. You can make following chang
     - **HIDE** the Agent (for single rental listings).
     - **HIDE** the Similar Rentals (for single rental listings).
     - **ADD** `Booking Widget` Description which **ADD** a general description for booking widget on all single rental listings.
-    - **ADD** Booking Widget Points. Example: [vr_point] Your Point [/vr_point]. 
-    Which adds points at the end of the booking widget on all single rental listings.
+    - **ADD** Booking Widget Points. Example: [vr_point] Your Point [/vr_point]. Which adds points at the end of the booking widget on all single rental listings.
 
 ![img](img/vr-6.jpg)
 

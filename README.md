@@ -1,5 +1,4 @@
 # VR Doc.
 Work in progress.
 
-Custom mkdocs.
-# vrdoc
+! Copyright Ahmad Awais — WPTie.
