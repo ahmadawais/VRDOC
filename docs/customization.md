@@ -36,6 +36,7 @@ Let's take a look at all the available customization options.
 Theme header can be customized from here. You can make following changes in the header:
 
 !!!success ""
+
     - **HIDE** `Call Us` section.
     - **CHANGE** `Call Us` text.
     - **ADD** your phone number.
@@ -51,6 +52,7 @@ Theme header can be customized from here. You can make following changes in the 
 Social settings can be customized from here. You can make following changes:
 
 !!!success ""
+
     - **HIDE** a social icon.
     - **Add** your social links.
 
@@ -72,6 +74,7 @@ Social settings can be customized from here. You can make following changes:
 Single Rental settings can be customized from here. You can make following changes:
 
 !!!success ""
+
     - **HIDE** the Slider (for single rental listings).
     - **HIDE** the Address (for single rental listings).
     - **HIDE** the Price (for single rental listings).
@@ -97,6 +100,7 @@ Single Rental settings can be customized from here. You can make following chang
 Membership settings can be customized from here. You can make following changes:
 
 !!!success ""
+
     - **SELECT** the `Login` page 
         
          :point_right: (**ADD** a new page with `Login VR` page template and select it here).
@@ -117,6 +121,7 @@ Membership settings can be customized from here. You can make following changes:
 Single Blog Post settings can be customized from here. You can make following changes:
 
 !!!success ""
+
     - **HIDE** the Author Box (for single blog posts)..
 
 ![img](img/vr-8.jpg)
@@ -127,6 +132,7 @@ Single Blog Post settings can be customized from here. You can make following ch
 Category/Term settings can be customized from here. You can make following changes:
 
 !!!success ""
+
     - **UPLOAD** a default image for category/term!
 
 ![img](img/vr-9.jpg)
@@ -137,6 +143,7 @@ Category/Term settings can be customized from here. You can make following chang
 Footer settings can be customized from here. You can make following changes:
 
 !!!success ""
+
     - **HIDE** Call to Action Section in the footer.
     - **UPLOAD** a background image for CTA Section.
     - **ADD** a heading for call to action section.
@@ -155,6 +162,7 @@ Footer settings can be customized from here. You can make following changes:
 General Theme settings can be customized from here. You can make following changes:
 
 !!!success ""
+
     - **DISABLE** Page Load Animation.
     - **DISPLAY** page load animations.
     - **OPEN** Navigation Menu by default.
