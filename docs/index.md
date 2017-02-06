@@ -9,6 +9,8 @@ Vacation Rentals WordPress theme is made to enforce a more natural and simpler u
 
 Similarly, this documentation is to the point. Just take a look at the menu and find what you're looking for. If it is the first time you're visiting this documentation then make sure you go through all of it.
 
+[Get Started with the setup-->](setup.md)
+
 If you like this theme, then support us by rating it with 5 stars.
 
 !!! tip "CONTACT SUPPORT"
