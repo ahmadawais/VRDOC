@@ -3,6 +3,14 @@
 
     
     <url>
+     <loc>https://ahmadawais.github.io/vrdoc/progress/</loc>
+     <lastmod>2017-02-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>https://ahmadawais.github.io/vrdoc/</loc>
      <lastmod>2017-02-06</lastmod>
      <changefreq>daily</changefreq>
@@ -10,18 +18,16 @@
     
 
     
-        
     <url>
-     <loc>https://ahmadawais.github.io/vrdoc/installation/</loc>
+     <loc>https://ahmadawais.github.io/vrdoc/setup/</loc>
      <lastmod>2017-02-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     
 
     
     <url>
-     <loc>https://ahmadawais.github.io/vrdoc/eg/</loc>
+     <loc>https://ahmadawais.github.io/vrdoc/customization/</loc>
      <lastmod>2017-02-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
