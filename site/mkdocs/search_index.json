@@ -2,18 +2,38 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Vacation Rentals WordPress Theme\n\n\nVacation Rentals WordPress theme helps you setup your very own AirBNB style bread and breakfast site.\n\n\n\n\nWelcome!\n\n\nThis site serves as the documentation to help you understand this theme better.", 
-            "title": "Getting Started"
+            "text": "Vacation Rentals WordPress Theme\n\n\n\n\nUPDATED \u2014 a week ago.\n\n\n\n\nGetting Started!\n\n\nVacation Rentals WordPress theme helps you setup your very own AirBNB style bread and breakfast site. This site serves as the documentation to help you understand this theme better. \n\n\nVacation Rentals WordPress theme is made to enforce a more natural and simpler user experience. Which is why you'll find it easy to use and fast at the same time. \n\n\nSimilarly, this documentation is to the point. Just take a look at the menu and find what you're looking for. If it is the first time you're visiting this documentation then make sure you go through all of it.\n\n\nIf you like this theme, then support us by rating it with 5 stars.\n\n\n\n\nCONTACT SUPPORT\n\n\nYou can search your questions from the search bar (top right corner). Here, get in touch with our support team.\n\n\n\n\n\n\nBUG REPORTS\n\n\nFind a bug in the documentation? Create an \nissue here\n!\n\n\n\n\n\n\nDISCLAIMER\n\n\nWe offer limited support for theme customers. We only provide support for our themes and their core features. We cannot guarantee that our themes will work properly with all the third party plugins and server environments. If you plan on adding numerous plugins to this theme then please note, we cannot facilitate support for any conflicts that may arise with this theme\u2019s default functionality. The ProductPress WordPress theme is presented as it is.", 
+            "title": "GET STARTED"
         }, 
         {
             "location": "/#vacation-rentals-wordpress-theme", 
-            "text": "Vacation Rentals WordPress theme helps you setup your very own AirBNB style bread and breakfast site.   Welcome!  This site serves as the documentation to help you understand this theme better.", 
+            "text": "UPDATED \u2014 a week ago.", 
             "title": "Vacation Rentals WordPress Theme"
         }, 
         {
-            "location": "/about/", 
-            "text": "Vacation Rentals WordPress theme helps you setup your very own AirBNB style bread and breakfast site. This site serves as the documentation to help you understand this theme better.", 
-            "title": "About"
+            "location": "/#getting-started", 
+            "text": "Vacation Rentals WordPress theme helps you setup your very own AirBNB style bread and breakfast site. This site serves as the documentation to help you understand this theme better.   Vacation Rentals WordPress theme is made to enforce a more natural and simpler user experience. Which is why you'll find it easy to use and fast at the same time.   Similarly, this documentation is to the point. Just take a look at the menu and find what you're looking for. If it is the first time you're visiting this documentation then make sure you go through all of it.  If you like this theme, then support us by rating it with 5 stars.   CONTACT SUPPORT  You can search your questions from the search bar (top right corner). Here, get in touch with our support team.    BUG REPORTS  Find a bug in the documentation? Create an  issue here !    DISCLAIMER  We offer limited support for theme customers. We only provide support for our themes and their core features. We cannot guarantee that our themes will work properly with all the third party plugins and server environments. If you plan on adding numerous plugins to this theme then please note, we cannot facilitate support for any conflicts that may arise with this theme\u2019s default functionality. The ProductPress WordPress theme is presented as it is.", 
+            "title": "Getting Started!"
+        }, 
+        {
+            "location": "/installation/", 
+            "text": "Theme Installation\n\n\n\n\nINSTALL WORDPRESS\n\n\nIn start you must have a working version of WordPress already installed. For information in regard to installing the WordPress CMS, please see the WordPress Codex \nInstalling WordPress\n.\n\n\n\n\nOnce you have a working version of WordPress, you need to do the following\n\n\n\n\nDOWNLOAD\n the theme files (which contain both the theme and related documents).\n\n\nEXTRACT\n the downloaded \nzip\n file.\n\n\nOPEN\n the folder called \n01- Theme\n to find the installable theme zip file called **vr.zip*\n\n\nINSTALL\n the theme by uploading \nvr.zip\n in your WordPress website.\n\n\n\n\n\n\nRECAP\n\n\nSo, it goes like this. You download the theme files you bought, you extract them in your computer and inside the theme folder \n01- Theme\n you find \nvr.zip\n file which is the theme file you need to upload in your WordPress.\n\n\n\n\nStep 1: Install Theme Via WordPress Dashboard\n\n\n\n\nAccess your WordPress site admin area. \n\n\nGo to \nAppearance \n Themes\n section.\n\n\nClick \nAdd New\n button and select the \u2018Upload Theme\u2019 option\n\n\nChoose the \nvr.zip\n file and click \nInstall Now\n\n\nOnce the theme is uploaded you need to activate it.\n\n\n\n\n\n\nFTP (Alternative)\n\n\nIf you face any problem during upload through dashboard, please upload the theme using FTP as guided below.\n\n\n\n\n(Alternative): Install Theme Via FTP\n\n\n\n\nExtract the \nvr.zip\n file in your PC.\n\n\nAccess your hosting server using an FTP client e.g. FileZilla.\n\n\nGo to the \nwp-content/themes\n folder of your WordPress installation.\n\n\nUpload the \nvr\n folder (you extracted) to the \nwp-content/themes/\n folder.\n\n\nGo to \nWordPress Dashboard \n Appearance \n Themes\n section and activate the theme.", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/installation/#theme-installation", 
+            "text": "INSTALL WORDPRESS  In start you must have a working version of WordPress already installed. For information in regard to installing the WordPress CMS, please see the WordPress Codex  Installing WordPress .   Once you have a working version of WordPress, you need to do the following   DOWNLOAD  the theme files (which contain both the theme and related documents).  EXTRACT  the downloaded  zip  file.  OPEN  the folder called  01- Theme  to find the installable theme zip file called **vr.zip*  INSTALL  the theme by uploading  vr.zip  in your WordPress website.    RECAP  So, it goes like this. You download the theme files you bought, you extract them in your computer and inside the theme folder  01- Theme  you find  vr.zip  file which is the theme file you need to upload in your WordPress.", 
+            "title": "Theme Installation"
+        }, 
+        {
+            "location": "/installation/#step-1-install-theme-via-wordpress-dashboard", 
+            "text": "Access your WordPress site admin area.   Go to  Appearance   Themes  section.  Click  Add New  button and select the \u2018Upload Theme\u2019 option  Choose the  vr.zip  file and click  Install Now  Once the theme is uploaded you need to activate it.    FTP (Alternative)  If you face any problem during upload through dashboard, please upload the theme using FTP as guided below.", 
+            "title": "Step 1: Install Theme Via WordPress Dashboard"
+        }, 
+        {
+            "location": "/installation/#alternative-install-theme-via-ftp", 
+            "text": "Extract the  vr.zip  file in your PC.  Access your hosting server using an FTP client e.g. FileZilla.  Go to the  wp-content/themes  folder of your WordPress installation.  Upload the  vr  folder (you extracted) to the  wp-content/themes/  folder.  Go to  WordPress Dashboard   Appearance   Themes  section and activate the theme.", 
+            "title": "(Alternative): Install Theme Via FTP"
         }, 
         {
             "location": "/eg/", 

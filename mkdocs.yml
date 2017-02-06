@@ -15,8 +15,9 @@ theme: 'material'
 theme_dir: 'mkdocs-material/material'
 
 pages:
-    - Getting Started: index.md
-    - About: about.md
+    - GET STARTED: index.md
+    - SETUP:
+      - Installation: installation.md
     - Eg: eg.md
 
 extra:
