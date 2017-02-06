@@ -1,0 +1,59 @@
+site_name: Documentation!
+site_description: 'Documentation for Vacation Rentals WordPress theme.'
+site_author: 'Ahmad Awais'
+site_url: 'https://ahmadawais.github.io/vrdoc'
+
+# Repository
+repo_name: 'GitHub'
+repo_url: 'https://github.com/ahmadawais/vrdoc'
+
+# Copyright
+copyright: 'Copyright &copy; 2017 InspiryThemes — WPTie'
+
+
+theme: 'material'
+theme_dir: 'mkdocs-material/material'
+
+pages:
+    - Home: index.md
+    - About: about.md
+    - Demo: demo.md
+
+extra:
+  palette:
+    primary: 'deep purple'
+    accent: 'deep orange'
+  font:
+      text: 'Open Sans'
+      code: 'Ubuntu Mono'
+  # logo: 'images/logo.svg'
+  # social:
+  #     - type: 'github'
+  #       link: 'https://github.com/ahmadawais/'
+  #     - type: 'twitter'
+  #       link: 'https://twitter.com/MrAhmadAwais'
+
+# # Google Analytics
+# google_analytics:
+#   - 'UA-XXXXXXXX-X'
+#   - 'auto'
+
+markdown_extensions:
+  - admonition
+  - codehilite(guess_lang=true,linenums=true)
+  - toc(permalink=true)
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+     emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
+  - meta
