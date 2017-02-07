@@ -127,13 +127,63 @@
         }, 
         {
             "location": "/rentals/", 
-            "text": "RENTALS\n\n\n\n\nTIP\n\n\nRentals\n are the backbone of \nVacationRentals\n theme. You can add all sorts of rental listings. You can also make custom rental listings. Exciting! Ain't it?", 
+            "text": "RENTALS\n\n\n\n\nTIP\n\n\nRentals\n are the backbone of \nVacationRentals\n theme. You can add all sorts of rental listings. You can also make custom rental listings. Exciting! Ain't it? \n\n\n\n\nAdd a Vacation Rental Listing\n\n\nLet's add a rental listing. Adding a vacation rental listing is easy. The process looks like.\n\n\n\n\n\n\nACCESS\n the WordPress admin dashboard.\n\n\nBROWSE\n the menu called \nVacation Rentals\n\n\nCLICK\n \nAdd New\n.\n\n\n\n\n\n\n\n\n\n\nClick ADD NEW\n\n\n\n\n\n\n\n\nAdd Title and Content for the Rental Listing.\n\n\n\n\n\n\nRENTAL DETAILS\n\n\nTo add rental details, scroll down below the content area to find a metabox called \nRental Details\n. It looks like the following screenshot.\n\n\n\n\n\n\n1. BASIC INFORMATION\n\n\nYou can add following basic information to a rental listing.\n\n\n\n\n\n\nRENT PRICE\n: (DIGITS ONLY) \u2014 Example Value: 450\n\n\nPRICE POSTFIX\n \u2014 Example Value: Per Night\n\n\nBEDROOMS\n \u2014 Example Value: 4\n\n\nBATHROOMS\n \u2014 Example Value: 2\n\n\nGUESTS\n \u2014 Example Value: 2\n\n\nRENTAL ID\n \u2014 Optional: It will help you search a rental directly.\n\n\nRENTAL ADDRESS\n \u2014 Leaving it empty will hide the Google map on rental detail page.\n\n\nRENTAL LOCATION\n AT GOOGLE MAP*\n\n\n\n\n\n\n\n\n\n\n2. GALLERY IMAGES\n\n\nYou can add gallery images to a rental listing.\n\n\n\n\n\n\nADD\n rental listing media images \u2014 up to 48 files although more than 10 are not recommended to keep the web page size small.\n\n\nSIZE\n of these images should be at least \n1440px x 725px\n (width x height).\n\n\n\n\n\n\n\n\n\n\n3. RENTAL VIDEO\n\n\nYou can add rental video to a rental listing.\n\n\n\n\n\n\nADD\n virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are supported\n\n\nADD\n virtual tour video placeholder image. \n\n\nSIZE\n of this image should be at least \n730px x 400px\n (width x height).\n\n\n\n\n\n\n\n\n4. AGENT INFORMATION\n\n\nYou can add agent information to a rental listing to connect an agent with a rental.\n\n\n\n\nAGENTS\n: To display the list of agents, you should add agents here.\n\n\n\n\n\n\nBefore adding any agent, there will be no list displayed. As shown below.\n\n\n\n\n\n\n\n\nAfter adding agent(s) there will be a list of agents to choose from. As shown below.\n\n\n\n\n\n\n5. BOOKING INFORMATION\n\n\nYou can add booking information to a rental listing to add a booking to the rental.\n\n\n\n\nBOOKING\n: To display the list of bookings, you should have at least one booking here.\n\n\n\n\n\n\nBefore you have any bookings, there will be no list displayed. As shown below.\n\n\n\n\n\n\n\n\nAfter adding booking(s) there will be a list of booking to choose from. As shown below.\n\n\n\n\n\n\n5. MISCELLANEOUS SETTINGS\n\n\nYou can add several miscellaneous settings to a rental listing. E.g.\n\n\n\n\n\n\nDISPLAY\n \u2014 Remember you need set a \nFeatured Image\n for this rental from the right sidebar.\n\n\nMARK THIS RENTAL AS FEATURED?\n - Remember you need set a \nFeatured Image\n for this rental from the right sidebar.\n\n\nPRIVATE NOTE\n: Keep a private note about this rental rental. This field will not be displayed anywhere else.\n\n\n\n\n\n\n\n\nBOOKINGS FOR THIS RENTAL\n\n\nThis metabox displays the bookings that are assigned to this particular rental.\n\n\n\n\nBefore you have any bookings, there will be no list displayed. As shown below.\n\n\n\n\n\n\n\n\nAll assigned rental bookings (once assigned to this rental) will be displayed here. As shown below.\n\n\n\n\n\n\nMORE SETTINGS\n\n\nThere are a few more things you can do with your rental listings. E.g.\n\n\n\n\n\n\nSELECT\n RENTAL DESTINATION\n\n\nSELECT\n RENTAL TYPE\n\n\nSELECT\n RENTAL FEATURES\n\n\nADD\n FEATURED IMAGE\n\n\n\n\n\n\n\n\nBefore you have any rental destination, type, features added there will be no list displayed. As shown below.\n\n\n\n\n\n\n\n\nOnce added, you can select as many rental destination, type, features, as you want. As shown below.", 
             "title": "4. RENTALS"
         }, 
         {
             "location": "/rentals/#rentals", 
             "text": "TIP  Rentals  are the backbone of  VacationRentals  theme. You can add all sorts of rental listings. You can also make custom rental listings. Exciting! Ain't it?", 
             "title": "RENTALS"
+        }, 
+        {
+            "location": "/rentals/#add-a-vacation-rental-listing", 
+            "text": "Let's add a rental listing. Adding a vacation rental listing is easy. The process looks like.    ACCESS  the WordPress admin dashboard.  BROWSE  the menu called  Vacation Rentals  CLICK   Add New .      Click ADD NEW     Add Title and Content for the Rental Listing.", 
+            "title": "Add a Vacation Rental Listing"
+        }, 
+        {
+            "location": "/rentals/#rental-details", 
+            "text": "To add rental details, scroll down below the content area to find a metabox called  Rental Details . It looks like the following screenshot.", 
+            "title": "RENTAL DETAILS"
+        }, 
+        {
+            "location": "/rentals/#1-basic-information", 
+            "text": "You can add following basic information to a rental listing.    RENT PRICE : (DIGITS ONLY) \u2014 Example Value: 450  PRICE POSTFIX  \u2014 Example Value: Per Night  BEDROOMS  \u2014 Example Value: 4  BATHROOMS  \u2014 Example Value: 2  GUESTS  \u2014 Example Value: 2  RENTAL ID  \u2014 Optional: It will help you search a rental directly.  RENTAL ADDRESS  \u2014 Leaving it empty will hide the Google map on rental detail page.  RENTAL LOCATION  AT GOOGLE MAP*", 
+            "title": "1. BASIC INFORMATION"
+        }, 
+        {
+            "location": "/rentals/#2-gallery-images", 
+            "text": "You can add gallery images to a rental listing.    ADD  rental listing media images \u2014 up to 48 files although more than 10 are not recommended to keep the web page size small.  SIZE  of these images should be at least  1440px x 725px  (width x height).", 
+            "title": "2. GALLERY IMAGES"
+        }, 
+        {
+            "location": "/rentals/#3-rental-video", 
+            "text": "You can add rental video to a rental listing.    ADD  virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are supported  ADD  virtual tour video placeholder image.   SIZE  of this image should be at least  730px x 400px  (width x height).", 
+            "title": "3. RENTAL VIDEO"
+        }, 
+        {
+            "location": "/rentals/#4-agent-information", 
+            "text": "You can add agent information to a rental listing to connect an agent with a rental.   AGENTS : To display the list of agents, you should add agents here.    Before adding any agent, there will be no list displayed. As shown below.     After adding agent(s) there will be a list of agents to choose from. As shown below.", 
+            "title": "4. AGENT INFORMATION"
+        }, 
+        {
+            "location": "/rentals/#5-booking-information", 
+            "text": "You can add booking information to a rental listing to add a booking to the rental.   BOOKING : To display the list of bookings, you should have at least one booking here.    Before you have any bookings, there will be no list displayed. As shown below.     After adding booking(s) there will be a list of booking to choose from. As shown below.", 
+            "title": "5. BOOKING INFORMATION"
+        }, 
+        {
+            "location": "/rentals/#5-miscellaneous-settings", 
+            "text": "You can add several miscellaneous settings to a rental listing. E.g.    DISPLAY  \u2014 Remember you need set a  Featured Image  for this rental from the right sidebar.  MARK THIS RENTAL AS FEATURED?  - Remember you need set a  Featured Image  for this rental from the right sidebar.  PRIVATE NOTE : Keep a private note about this rental rental. This field will not be displayed anywhere else.", 
+            "title": "5. MISCELLANEOUS SETTINGS"
+        }, 
+        {
+            "location": "/rentals/#bookings-for-this-rental", 
+            "text": "This metabox displays the bookings that are assigned to this particular rental.   Before you have any bookings, there will be no list displayed. As shown below.     All assigned rental bookings (once assigned to this rental) will be displayed here. As shown below.", 
+            "title": "BOOKINGS FOR THIS RENTAL"
+        }, 
+        {
+            "location": "/rentals/#more-settings", 
+            "text": "There are a few more things you can do with your rental listings. E.g.    SELECT  RENTAL DESTINATION  SELECT  RENTAL TYPE  SELECT  RENTAL FEATURES  ADD  FEATURED IMAGE     Before you have any rental destination, type, features added there will be no list displayed. As shown below.     Once added, you can select as many rental destination, type, features, as you want. As shown below.", 
+            "title": "MORE SETTINGS"
         }, 
         {
             "location": "/bookings/", 
