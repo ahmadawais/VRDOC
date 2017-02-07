@@ -15,7 +15,17 @@
     - [x] Category/Term Settings
     - [x] Footer Settings
     - [x] General Theme Settings
-- [ ] Rentals
+- [x] Rentals
+    - [x] Add a Vacation Rental Listing
+    - [x] RENTAL DETAILS
+    - [x] BASIC INFORMATION
+    - [x] GALLERY IMAGES
+    - [x] RENTAL VIDEO
+    - [x] AGENT INFORMATION
+    - [x] BOOKING INFORMATION
+    - [x] MISCELLANEOUS SETTINGS
+    - [x] BOOKINGS FOR THIS RENTAL
+    - [x] MORE SETTINGS
 - [ ] BOOKINGS
 - [ ] AGENTS
 - [ ] PARTNERS
