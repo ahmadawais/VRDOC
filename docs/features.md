@@ -1,0 +1,3 @@
+# RENTAL FEATURES
+
+## How to Add RENTAL FEATURES?

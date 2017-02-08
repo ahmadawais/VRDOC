@@ -1,0 +1,3 @@
+# RENTAL TYPES
+
+## How to Add RENTAL TYPES?

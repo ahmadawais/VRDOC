@@ -127,7 +127,7 @@
         }, 
         {
             "location": "/rentals/", 
-            "text": "RENTALS\n\n\n\n\nTIP\n\n\nRentals\n are the backbone of \nVacationRentals\n theme. You can add all sorts of rental listings. You can also make custom rental listings. Exciting! Ain't it? \n\n\n\n\nAdd a Vacation Rental Listing\n\n\nLet's add a rental listing. Adding a vacation rental listing is easy. The process looks like.\n\n\n\n\n\n\nACCESS\n the WordPress admin dashboard.\n\n\nBROWSE\n the menu called \nVacation Rentals\n\n\nCLICK\n \nAdd New\n.\n\n\n\n\n\n\n\n\n\n\nClick ADD NEW\n\n\n\n\n\n\n\n\nAdd Title and Content for the Rental Listing.\n\n\n\n\n\n\nRENTAL DETAILS\n\n\nTo add rental details, scroll down below the content area to find a metabox called \nRental Details\n. It looks like the following screenshot.\n\n\n\n\n\n\n1. BASIC INFORMATION\n\n\nYou can add following basic information to a rental listing.\n\n\n\n\n\n\nRENT PRICE\n: (DIGITS ONLY) \u2014 Example Value: 450\n\n\nPRICE POSTFIX\n \u2014 Example Value: Per Night\n\n\nBEDROOMS\n \u2014 Example Value: 4\n\n\nBATHROOMS\n \u2014 Example Value: 2\n\n\nGUESTS\n \u2014 Example Value: 2\n\n\nRENTAL ID\n \u2014 Optional: It will help you search a rental directly.\n\n\nRENTAL ADDRESS\n \u2014 Leaving it empty will hide the Google map on rental detail page.\n\n\nRENTAL LOCATION\n AT GOOGLE MAP*\n\n\n\n\n\n\n\n\n\n\n2. GALLERY IMAGES\n\n\nYou can add gallery images to a rental listing.\n\n\n\n\n\n\nADD\n rental listing media images \u2014 up to 48 files although more than 10 are not recommended to keep the web page size small.\n\n\nSIZE\n of these images should be at least \n1440px x 725px\n (width x height).\n\n\n\n\n\n\n\n\n\n\n3. RENTAL VIDEO\n\n\nYou can add rental video to a rental listing.\n\n\n\n\n\n\nADD\n virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are supported\n\n\nADD\n virtual tour video placeholder image. \n\n\nSIZE\n of this image should be at least \n730px x 400px\n (width x height).\n\n\n\n\n\n\n\n\n4. AGENT INFORMATION\n\n\nYou can add agent information to a rental listing to connect an agent with a rental.\n\n\n\n\nAGENTS\n: To display the list of agents, you should add agents here.\n\n\n\n\n\n\nBefore adding any agent, there will be no list displayed. As shown below.\n\n\n\n\n\n\n\n\nAfter adding agent(s) there will be a list of agents to choose from. As shown below.\n\n\n\n\n\n\n5. BOOKING INFORMATION\n\n\nYou can add booking information to a rental listing to add a booking to the rental.\n\n\n\n\nBOOKING\n: To display the list of bookings, you should have at least one booking here.\n\n\n\n\n\n\nBefore you have any bookings, there will be no list displayed. As shown below.\n\n\n\n\n\n\n\n\nAfter adding booking(s) there will be a list of booking to choose from. As shown below.\n\n\n\n\n\n\n5. MISCELLANEOUS SETTINGS\n\n\nYou can add several miscellaneous settings to a rental listing. E.g.\n\n\n\n\n\n\nDISPLAY\n \u2014 Remember you need set a \nFeatured Image\n for this rental from the right sidebar.\n\n\nMARK THIS RENTAL AS FEATURED?\n - Remember you need set a \nFeatured Image\n for this rental from the right sidebar.\n\n\nPRIVATE NOTE\n: Keep a private note about this rental rental. This field will not be displayed anywhere else.\n\n\n\n\n\n\n\n\nBOOKINGS FOR THIS RENTAL\n\n\nThis metabox displays the bookings that are assigned to this particular rental.\n\n\n\n\nBefore you have any bookings, there will be no list displayed. As shown below.\n\n\n\n\n\n\n\n\nAll assigned rental bookings (once assigned to this rental) will be displayed here. As shown below.\n\n\n\n\n\n\nMORE SETTINGS\n\n\nThere are a few more things you can do with your rental listings. E.g.\n\n\n\n\n\n\nSELECT\n RENTAL DESTINATION\n\n\nSELECT\n RENTAL TYPE\n\n\nSELECT\n RENTAL FEATURES\n\n\nADD\n FEATURED IMAGE\n\n\n\n\n\n\n\n\nBefore you have any rental destination, type, features added there will be no list displayed. As shown below.\n\n\n\n\n\n\n\n\nOnce added, you can select as many rental destination, type, features, as you want. As shown below.", 
+            "text": "RENTALS\n\n\n\n\nTIP\n\n\nRentals\n are the backbone of \nVacationRentals\n theme. You can add all sorts of rental listings. You can also make custom rental listings. Exciting! Ain't it? \n\n\n\n\nAdd a Vacation Rental Listing\n\n\nLet's add a rental listing. Adding a vacation rental listing is easy. The process looks like.\n\n\n\n\n\n\nACCESS\n the WordPress admin dashboard.\n\n\nBROWSE\n the menu called \nVacation Rentals\n\n\nCLICK\n \nAdd New\n.\n\n\n\n\n\n\n\n\n\n\nClick ADD NEW\n\n\n\n\n\n\n\n\nAdd Title and Content for the Rental Listing.\n\n\n\n\n\n\nRENTAL DETAILS\n\n\nTo add rental details, scroll down below the content area to find a metabox called \nRental Details\n. It looks like the following screenshot.\n\n\n\n\n\n\n1. BASIC INFORMATION\n\n\nYou can add following basic information to a rental listing.\n\n\n\n\n\n\nRENT PRICE\n: (DIGITS ONLY) \u2014 Example Value: 450\n\n\nPRICE POSTFIX\n \u2014 Example Value: Per Night\n\n\nBEDROOMS\n \u2014 Example Value: 4\n\n\nBATHROOMS\n \u2014 Example Value: 2\n\n\nGUESTS\n \u2014 Example Value: 2\n\n\nRENTAL ID\n \u2014 Optional: It will help you search a rental directly.\n\n\nRENTAL ADDRESS\n \u2014 Leaving it empty will hide the Google map on rental detail page.\n\n\nRENTAL LOCATION\n AT GOOGLE MAP*\n\n\n\n\n\n\n\n\n\n\n2. GALLERY IMAGES\n\n\nYou can add gallery images to a rental listing.\n\n\n\n\n\n\nADD\n rental listing media images \u2014 up to 48 files although more than 10 are not recommended to keep the web page size small.\n\n\nSIZE\n of these images should be at least \n1440px x 725px\n (width x height).\n\n\n\n\n\n\n\n\n\n\n3. RENTAL VIDEO\n\n\nYou can add rental video to a rental listing.\n\n\n\n\n\n\nADD\n virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are supported\n\n\nADD\n virtual tour video placeholder image. \n\n\nSIZE\n of this image should be at least \n730px x 400px\n (width x height).\n\n\n\n\n\n\n\n\n4. AGENT INFORMATION\n\n\nYou can add agent information to a rental listing to connect an agent with a rental.\n\n\n\n\nAGENTS\n: To display the list of agents, you should add agents here.\n\n\n\n\n\n\nBefore adding any agent, there will be no list displayed. As shown below.\n\n\n\n\n\n\n\n\nAfter adding agent(s) there will be a list of agents to choose from. As shown below.\n\n\n\n\n\n\n\n\n\n5. MISCELLANEOUS SETTINGS\n\n\nYou can add several miscellaneous settings to a rental listing. E.g.\n\n\n\n\n\n\nDISPLAY\n \u2014 Remember you need set a \nFeatured Image\n for this rental from the right sidebar.\n\n\nMARK THIS RENTAL AS FEATURED?\n - Remember you need set a \nFeatured Image\n for this rental from the right sidebar.\n\n\nPRIVATE NOTE\n: Keep a private note about this rental rental. This field will not be displayed anywhere else.\n\n\n\n\n\n\n\n\nBOOKINGS FOR THIS RENTAL\n\n\nThis metabox displays the bookings that are assigned to this particular rental.\n\n\n\n\nBefore you have any bookings, there will be no list displayed. As shown below.\n\n\n\n\n\n\n\n\nAll assigned rental bookings (once assigned to this rental) will be displayed here. As shown below.\n\n\n\n\n\n\nMORE SETTINGS\n\n\nThere are a few more things you can do with your rental listings. E.g.\n\n\n\n\n\n\nSELECT\n RENTAL DESTINATION\n\n\nSELECT\n RENTAL TYPE\n\n\nSELECT\n RENTAL FEATURES\n\n\nADD\n FEATURED IMAGE\n\n\n\n\n\n\n\n\nBefore you have any rental destination, type, features added there will be no list displayed. As shown below.\n\n\n\n\n\n\n\n\nOnce added, you can select as many rental destination, type, features, as you want. As shown below.", 
             "title": "4. RENTALS"
         }, 
         {
@@ -166,11 +166,6 @@
             "title": "4. AGENT INFORMATION"
         }, 
         {
-            "location": "/rentals/#5-booking-information", 
-            "text": "You can add booking information to a rental listing to add a booking to the rental.   BOOKING : To display the list of bookings, you should have at least one booking here.    Before you have any bookings, there will be no list displayed. As shown below.     After adding booking(s) there will be a list of booking to choose from. As shown below.", 
-            "title": "5. BOOKING INFORMATION"
-        }, 
-        {
             "location": "/rentals/#5-miscellaneous-settings", 
             "text": "You can add several miscellaneous settings to a rental listing. E.g.    DISPLAY  \u2014 Remember you need set a  Featured Image  for this rental from the right sidebar.  MARK THIS RENTAL AS FEATURED?  - Remember you need set a  Featured Image  for this rental from the right sidebar.  PRIVATE NOTE : Keep a private note about this rental rental. This field will not be displayed anywhere else.", 
             "title": "5. MISCELLANEOUS SETTINGS"
@@ -186,24 +181,124 @@
             "title": "MORE SETTINGS"
         }, 
         {
-            "location": "/bookings/", 
+            "location": "/destinations/", 
+            "text": "RENTAL DESTINATIONS\n\n\nHow to Add RENTAL DESTINATIONS?", 
+            "title": "5. DESTINATIONS"
+        }, 
+        {
+            "location": "/destinations/#rental-destinations", 
             "text": "", 
-            "title": "5. BOOKINGS"
+            "title": "RENTAL DESTINATIONS"
+        }, 
+        {
+            "location": "/destinations/#how-to-add-rental-destinations", 
+            "text": "", 
+            "title": "How to Add RENTAL DESTINATIONS?"
+        }, 
+        {
+            "location": "/features/", 
+            "text": "RENTAL FEATURES\n\n\nHow to Add RENTAL FEATURES?", 
+            "title": "6. FEATURES"
+        }, 
+        {
+            "location": "/features/#rental-features", 
+            "text": "", 
+            "title": "RENTAL FEATURES"
+        }, 
+        {
+            "location": "/features/#how-to-add-rental-features", 
+            "text": "", 
+            "title": "How to Add RENTAL FEATURES?"
+        }, 
+        {
+            "location": "/types/", 
+            "text": "RENTAL TYPES\n\n\nHow to Add RENTAL TYPES?", 
+            "title": "7. TYPES"
+        }, 
+        {
+            "location": "/types/#rental-types", 
+            "text": "", 
+            "title": "RENTAL TYPES"
+        }, 
+        {
+            "location": "/types/#how-to-add-rental-types", 
+            "text": "", 
+            "title": "How to Add RENTAL TYPES?"
+        }, 
+        {
+            "location": "/bookings/", 
+            "text": "Bookings\n\n\nUsers can book rentals listed on your site. Bookings are connected with each rentals as well. Bookings are very simple and easy to learn.\n\n\nHow Does \nBookings\n Work?\n\n\nIf you access your WordPress admin dashboard, you'll find the \nBookings\n menu under the \nVacation Rentals\n menu. As shown below.\n\n\n\n\n 1. Add a \nBooking\n Manually!\n\n\nYou can add a \nBooking\n manually by following these steps.\n\n\n\n\n\n\nACCESS\n WordPress admin dashboard.\n\n\nGO TO\n \nVacation Rentals\n \n \nBookings\n menu.\n\n\nCLICK\n \nADD NEW\n button.\n\n\n\n\n\n\n\n\n\n\n\n\nTITLE\n for the \nBooking\n will be auto generated.\n\n\nTITLE\n consists of a random booking number with the date \nBooking\n was made. (This is not the \nBooking\n date, but when the \nBooking\n was made in WP). Date has international format, i.e. (Year-Month-Day).\n\n\n\n\n\n\n\n\nTo add the \nBooking\n you can fill the information asked of you on this screen.\n\n\n\n\nBOOKING\n\n\n\n\nBOOKING CONFIRMATION\n: Select \nPending\n or \nConfirmed\n.\n\n\nTHE RENTAL\n: Select the rental you are going to book. Selected Rental's value cannot be changed once it is set either manually or automatically. If you haven't added a rental then add a new RENTAL!\n\n\n\n\n\n\n\n\nBOOKING INFORMATION\n\n\n\n\nCHECKIN DATE\n (Year-Month-Day) \n\n\nCHECKOUT DATE\n(Year-Month-Day)\n\n\nGUESTS\n Add number of guests. Example Value: 2\n\n\nNAME\n Name of the person booking the rental. Booked By, E.g. John\n\n\nEMAIL\n ID of the person booking the rental. Example Value: \n\n\nPRIVATE NOTE\n: Keep a private note about this rental booking. This field will not be displayed anywhere else.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nThe first metabox (BOOKED RENTAL PROPERTY) will display the rental property that is being booked. When you haven't selected any rental property it will just show: \n- No rental property selected!\n.\n\n\nOnce the rental property is selected then it will display that rental property with key details.\n\n\n\n\n\n\n\n\nBOOKED\n\n\nAfter filling the data, press \nPublish\n. The rental is only \nBooked\n if you have selected \nConfiremd\n. Otherwise it will stay as a pending booking. Here's how it looks after getting published. \n\n\n1\n2\nCheck out the rental listing now shows at the top. \nAlso, check the private note that you can add for your team members to see.\n\n\n\n\n\n\n\n\n\n\n 2. Add a \nBooking\n Automatically!\n\n\nExplained below; in \nHow Can a Customer Book a Rental?\n\n\n 3. How Can a Customer \nBook\n a Rental?\n\n\nYou or your customers can \nBook\n a rental from the frontend. Open a rental listing and book it from the sidebar by adding the following information.\n\n\n\n\n\n\nCHECK IN\n date.\n\n\nCHECK OUT\n date.\n\n\nGUESTS\n: No. of guests.\n\n\n\n\n\n\n\n\n\n\nThe booking gets submitted as a pending \nBooking\n. As shown below.\n\n\n\n\n\n\n\n\nCONFIRM THE BOOKING\n\n\nTo confirm the \nBooking\n; you have to access it, mark it as \nConfirmed\n and then \nPublish\n it. As shown below.", 
+            "title": "8. BOOKINGS"
+        }, 
+        {
+            "location": "/bookings/#bookings", 
+            "text": "Users can book rentals listed on your site. Bookings are connected with each rentals as well. Bookings are very simple and easy to learn.", 
+            "title": "Bookings"
+        }, 
+        {
+            "location": "/bookings/#how-does-bookings-work", 
+            "text": "If you access your WordPress admin dashboard, you'll find the  Bookings  menu under the  Vacation Rentals  menu. As shown below.", 
+            "title": "How Does Bookings Work?"
+        }, 
+        {
+            "location": "/bookings/#1-add-a-booking-manually", 
+            "text": "You can add a  Booking  manually by following these steps.    ACCESS  WordPress admin dashboard.  GO TO   Vacation Rentals     Bookings  menu.  CLICK   ADD NEW  button.       TITLE  for the  Booking  will be auto generated.  TITLE  consists of a random booking number with the date  Booking  was made. (This is not the  Booking  date, but when the  Booking  was made in WP). Date has international format, i.e. (Year-Month-Day).     To add the  Booking  you can fill the information asked of you on this screen.   BOOKING   BOOKING CONFIRMATION : Select  Pending  or  Confirmed .  THE RENTAL : Select the rental you are going to book. Selected Rental's value cannot be changed once it is set either manually or automatically. If you haven't added a rental then add a new RENTAL!     BOOKING INFORMATION   CHECKIN DATE  (Year-Month-Day)   CHECKOUT DATE (Year-Month-Day)  GUESTS  Add number of guests. Example Value: 2  NAME  Name of the person booking the rental. Booked By, E.g. John  EMAIL  ID of the person booking the rental. Example Value:   PRIVATE NOTE : Keep a private note about this rental booking. This field will not be displayed anywhere else.      Note   The first metabox (BOOKED RENTAL PROPERTY) will display the rental property that is being booked. When you haven't selected any rental property it will just show:  - No rental property selected! .  Once the rental property is selected then it will display that rental property with key details.     BOOKED  After filling the data, press  Publish . The rental is only  Booked  if you have selected  Confiremd . Otherwise it will stay as a pending booking. Here's how it looks after getting published.   1\n2 Check out the rental listing now shows at the top. \nAlso, check the private note that you can add for your team members to see.", 
+            "title": "1. Add a Booking Manually!"
+        }, 
+        {
+            "location": "/bookings/#2-add-a-booking-automatically", 
+            "text": "Explained below; in  How Can a Customer Book a Rental?", 
+            "title": "2. Add a Booking Automatically!"
+        }, 
+        {
+            "location": "/bookings/#3-how-can-a-customer-book-a-rental", 
+            "text": "You or your customers can  Book  a rental from the frontend. Open a rental listing and book it from the sidebar by adding the following information.    CHECK IN  date.  CHECK OUT  date.  GUESTS : No. of guests.      The booking gets submitted as a pending  Booking . As shown below.     CONFIRM THE BOOKING  To confirm the  Booking ; you have to access it, mark it as  Confirmed  and then  Publish  it. As shown below.", 
+            "title": "3. How Can a Customer Book a Rental?"
         }, 
         {
             "location": "/agents/", 
-            "text": "", 
-            "title": "6. AGENTS"
+            "text": "AGENTS\n\n\n\n\nAgents are realtors that put up rental properties for rent. \n\n\n\n\nHow to Add a Realtor Agent?\n\n\nYou can add a \nAgent\n (realtor) to your site by:\n\n\n\n\n\n\nACCESS\n WordPress admin dashboard.\n\n\nGO TO\n \nVacation Rentals\n \n \nAgents\n menu.\n\n\nCLICK\n \nADD NEW\n button.\n\n\n\n\n\n\n\n\nFill in the following details and publish a new agent.\n\n\n\n\n\n\nAgent Title\n.\n\n\nJOB TITLE\n.\n\n\nEMAIL ADDRESS\n \u2014 Agent related messages from contact form on rental details page, will be sent to this email - address.\n\n\nMOBILE NUMBER\n.\n\n\nOFFICE NUMBER\n.\n\n\nFAX NUMBER\n.\n\n\nOFFICE ADDRESS\n.\n\n\nPROFILE SUMMARY\n (OPTIONAL).\n\n\nFACEBOOK URL\n.\n\n\nTWITTER URL\n.\n\n\nGOOGLE PLUS\n URL.\n\n\nLINKEDIN URL\n.\n\n\nSKYPE USERNAME\n Example Value: \nmyskypeID\n.\n\n\nINSTAGRAM URL\n.\n\n\nYOUTUBE URL\n.\n\n\nFEATURED IMAGE\n: Add the \nAgent\n's image as the featured image.\n\n\n\n\n\n\n\n\nAn \nAgent\n's filled profile looks like.\n\n\n\n\n\n\n\n\nThe \nAgent\n's profile at the frontend looks like this.", 
+            "title": "9. AGENTS"
         }, 
         {
-            "location": "/partners/", 
-            "text": "", 
-            "title": "7. PARTNERS"
+            "location": "/agents/#agents", 
+            "text": "Agents are realtors that put up rental properties for rent.", 
+            "title": "AGENTS"
+        }, 
+        {
+            "location": "/agents/#how-to-add-a-realtor-agent", 
+            "text": "You can add a  Agent  (realtor) to your site by:    ACCESS  WordPress admin dashboard.  GO TO   Vacation Rentals     Agents  menu.  CLICK   ADD NEW  button.     Fill in the following details and publish a new agent.    Agent Title .  JOB TITLE .  EMAIL ADDRESS  \u2014 Agent related messages from contact form on rental details page, will be sent to this email - address.  MOBILE NUMBER .  OFFICE NUMBER .  FAX NUMBER .  OFFICE ADDRESS .  PROFILE SUMMARY  (OPTIONAL).  FACEBOOK URL .  TWITTER URL .  GOOGLE PLUS  URL.  LINKEDIN URL .  SKYPE USERNAME  Example Value:  myskypeID .  INSTAGRAM URL .  YOUTUBE URL .  FEATURED IMAGE : Add the  Agent 's image as the featured image.     An  Agent 's filled profile looks like.     The  Agent 's profile at the frontend looks like this.", 
+            "title": "How to Add a Realtor Agent?"
         }, 
         {
             "location": "/settings/", 
             "text": "", 
-            "title": "7. SETTINGS"
+            "title": "10. SETTINGS"
+        }, 
+        {
+            "location": "/pages/", 
+            "text": "", 
+            "title": "11. PAGES"
+        }, 
+        {
+            "location": "/setup/installation/", 
+            "text": "Theme Installation\n\n\n\n\nINSTALL WORDPRESS\n\n\nIn start you must have a working version of WordPress already installed. For information in regard to installing the WordPress CMS, please see the WordPress Codex \nInstalling WordPress\n.\n\n\n\n\nOnce you have a working version of WordPress, you need to do the following\n\n\n\n\nDOWNLOAD\n the theme files (which contain both the theme and related documents).\n\n\nEXTRACT\n the downloaded \nzip\n file.\n\n\nOPEN\n the folder called \n01- Theme\n to find the installable theme zip file called **vr.zip*\n\n\nINSTALL\n the theme by uploading \nvr.zip\n in your WordPress website.\n\n\n\n\n\n\nRECAP\n\n\nSo, it goes like this. You download the theme files you bought, you extract them in your computer and inside the theme folder \n01- Theme\n you find \nvr.zip\n file which is the theme file you need to upload in your WordPress.\n\n\n\n\nInstall Theme Via WordPress Dashboard\n\n\n\n\nAccess your WordPress site admin area. \n\n\nGo to \nAppearance \n Themes\n section.\n\n\nClick \nAdd New\n button and select the \u2018Upload Theme\u2019 option\n\n\nChoose the \nvr.zip\n file and click \nInstall Now\n\n\nOnce the theme is uploaded you need to activate it.\n\n\n\n\n\n\nFTP (Alternative)\n\n\nIf you face any problem during upload through dashboard, please upload the theme using FTP as guided below.\n\n\n\n\nAlternative \u2014 Install Theme Via FTP\n\n\n\n\nExtract the \nvr.zip\n file in your PC.\n\n\nAccess your hosting server using an FTP client e.g. FileZilla.\n\n\nGo to the \nwp-content/themes\n folder of your WordPress installation.\n\n\nUpload the \nvr\n folder (you extracted) to the \nwp-content/themes/\n folder.\n\n\nGo to \nWordPress Dashboard \n Appearance \n Themes\n section and activate the theme.", 
+            "title": "INSTALLATION"
+        }, 
+        {
+            "location": "/setup/installation/#theme-installation", 
+            "text": "INSTALL WORDPRESS  In start you must have a working version of WordPress already installed. For information in regard to installing the WordPress CMS, please see the WordPress Codex  Installing WordPress .   Once you have a working version of WordPress, you need to do the following   DOWNLOAD  the theme files (which contain both the theme and related documents).  EXTRACT  the downloaded  zip  file.  OPEN  the folder called  01- Theme  to find the installable theme zip file called **vr.zip*  INSTALL  the theme by uploading  vr.zip  in your WordPress website.    RECAP  So, it goes like this. You download the theme files you bought, you extract them in your computer and inside the theme folder  01- Theme  you find  vr.zip  file which is the theme file you need to upload in your WordPress.", 
+            "title": "Theme Installation"
+        }, 
+        {
+            "location": "/setup/installation/#install-theme-via-wordpress-dashboard", 
+            "text": "Access your WordPress site admin area.   Go to  Appearance   Themes  section.  Click  Add New  button and select the \u2018Upload Theme\u2019 option  Choose the  vr.zip  file and click  Install Now  Once the theme is uploaded you need to activate it.    FTP (Alternative)  If you face any problem during upload through dashboard, please upload the theme using FTP as guided below.", 
+            "title": "Install Theme Via WordPress Dashboard"
+        }, 
+        {
+            "location": "/setup/installation/#alternative-install-theme-via-ftp", 
+            "text": "Extract the  vr.zip  file in your PC.  Access your hosting server using an FTP client e.g. FileZilla.  Go to the  wp-content/themes  folder of your WordPress installation.  Upload the  vr  folder (you extracted) to the  wp-content/themes/  folder.  Go to  WordPress Dashboard   Appearance   Themes  section and activate the theme.", 
+            "title": "Alternative \u2014 Install Theme Via FTP"
         }
     ]
 }

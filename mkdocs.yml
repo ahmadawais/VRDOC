@@ -20,11 +20,14 @@ pages:
     - 2. SETUP: setup.md
     - 3. CUSTOMIZATION: customization.md
     - 4. RENTALS: rentals.md
-    - 5. BOOKINGS: bookings.md
-    - 6. AGENTS: agents.md
-    - 7. PARTNERS: partners.md
-    - 7. SETTINGS: settings.md
-      # - INSTALLATION: setup/installation.md
+    - 5. DESTINATIONS: destinations.md
+    - 6. FEATURES: features.md
+    - 7. TYPES: types.md
+    - 8. BOOKINGS: bookings.md
+    - 9. AGENTS: agents.md
+    - 10. SETTINGS: settings.md
+    - 11. PAGES: pages.md
+    - INSTALLATION: setup/installation.md
     # - Eg: eg.md
 
 extra:

@@ -94,7 +94,7 @@ You can add agent information to a rental listing to connect an agent with a ren
 
 ![img](img/vr-20.jpg)
 
-#### 5. BOOKING INFORMATION
+<!-- #### 5. BOOKING INFORMATION
 
 You can add booking information to a rental listing to add a booking to the rental.
 
@@ -111,7 +111,7 @@ You can add booking information to a rental listing to add a booking to the rent
     After adding booking(s) there will be a list of booking to choose from. As shown below.
 
 ![img](img/vr-22.jpg)
-
+ -->
 #### 5. MISCELLANEOUS SETTINGS
 
 You can add several miscellaneous settings to a rental listing. E.g.
