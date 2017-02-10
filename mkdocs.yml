@@ -1,3 +1,10 @@
+# Documentation for VacationRentals WordPress theme.
+#
+# Author: Ahmad Awais
+# License: Copyright held by WPTie.
+#
+# MKDOCS http://www.mkdocs.org/
+# mkdocs-material http://squidfunk.github.io/mkdocs-material/
 site_name: VR DOCUMENTATION
 site_description: 'Documentation for Vacation Rentals WordPress theme.'
 site_author: 'Ahmad Awais'
@@ -15,9 +22,11 @@ theme: 'material'
 theme_dir: 'mkdocs-material/material'
 
 pages:
-    - 0. PROGRESS: progress.md
-    - 1. GET STARTED: index.md
-    - 2. SETUP: setup.md
+    - —— PROGRESS: progress.md
+    - 0. START HERE: index.md
+    - 1. INSTALLATION: installation.md
+    - 2. PAGES:
+        - HOMEPAGE: homepage.md
     - 3. CUSTOMIZATION: customization.md
     - 4. RENTALS: rentals.md
     - 5. DESTINATIONS: destinations.md
@@ -26,8 +35,6 @@ pages:
     - 8. BOOKINGS: bookings.md
     - 9. AGENTS: agents.md
     - 10. SETTINGS: settings.md
-    - 11. PAGES: pages.md
-    - INSTALLATION: setup/installation.md
     # - Eg: eg.md
 
 extra:
