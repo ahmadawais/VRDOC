@@ -26,6 +26,14 @@
     
 
     
+    <url>
+     <loc>https://ahmadawais.github.io/vrdoc/customization/</loc>
+     <lastmod>2017-02-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
         
     <url>
      <loc>https://ahmadawais.github.io/vrdoc/homepage/</loc>
@@ -33,14 +41,48 @@
      <changefreq>daily</changefreq>
     </url>
         
-    
-
-    
     <url>
-     <loc>https://ahmadawais.github.io/vrdoc/customization/</loc>
+     <loc>https://ahmadawais.github.io/vrdoc/rentals-search/</loc>
      <lastmod>2017-02-20</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>https://ahmadawais.github.io/vrdoc/login/</loc>
+     <lastmod>2017-02-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://ahmadawais.github.io/vrdoc/register/</loc>
+     <lastmod>2017-02-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://ahmadawais.github.io/vrdoc/reset/</loc>
+     <lastmod>2017-02-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://ahmadawais.github.io/vrdoc/edit-profile/</loc>
+     <lastmod>2017-02-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://ahmadawais.github.io/vrdoc/favorite/</loc>
+     <lastmod>2017-02-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://ahmadawais.github.io/vrdoc/rentals-list/</loc>
+     <lastmod>2017-02-20</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
