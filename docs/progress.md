@@ -1,8 +1,8 @@
 #PROGRESS
 - [x] Getting started
-- [ ] Theme Setup
+- [x] Theme Setup
     - [x] Content
-    - [ ] Images
+    - [x] Images
 - [x] Customization
     - [x] Customize
     - [x] Vacation Rentals Options
@@ -26,7 +26,7 @@
     - [x] MISCELLANEOUS SETTINGS
     - [x] BOOKINGS FOR THIS RENTAL
     - [x] MORE SETTINGS
-- [ ] BOOKINGS
-- [ ] AGENTS
-- [ ] PARTNERS
-- [ ] SETTINGS
+- [x] BOOKINGS
+- [x] AGENTS
+- [x] PARTNERS
+- [x] SETTINGS

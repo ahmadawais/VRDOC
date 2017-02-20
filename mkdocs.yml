@@ -22,7 +22,7 @@ theme: 'material'
 theme_dir: 'mkdocs-material/material'
 
 pages:
-    - —— PROGRESS: progress.md
+    # - —— PROGRESS: progress.md
     - 0. START HERE: index.md
     - 1. INSTALLATION: installation.md
     - 2. CUSTOMIZATION: customization.md
