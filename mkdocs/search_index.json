@@ -32,7 +32,7 @@
         }, 
         {
             "location": "/installation/", 
-            "text": "THEME SETUP\n\n\nSTEP #1\u2014 THEME INSTALLATION\n\n\n\n\nINSTALL WORDPRESS\n\n\nIn start you must have a working version of WordPress already installed. For information in regard to installing the WordPress CMS, please see the WordPress Codex \nInstalling WordPress\n.\n\n\n\n\nOnce you have a working version of WordPress, you need to do the following\n\n\n\n\nDOWNLOAD\n the theme files (which contain both the theme and related documents).\n\n\nEXTRACT\n the downloaded \nzip\n file.\n\n\nOPEN\n the folder called \n01- Theme\n to find the installable theme zip file called \nvr.zip\n\n\nINSTALL\n the theme by uploading \nvr.zip\n in your WordPress website.\n\n\n\n\n\n\nRECAP\n\n\nSo, it goes like this. You download the theme files you bought, you extract them in your computer and inside the theme folder \n01- Theme\n you find \nvr.zip\n file which is the theme file you need to upload in your WordPress.\n\n\n\n\nInstall Theme Via WordPress Dashboard\n\n\n\n\nAccess your WordPress site admin area. \n\n\nGo to \nAppearance \n Themes\n section.\n\n\nClick \nAdd New\n button and select the \u2018Upload Theme\u2019 option\n\n\nChoose the \nvr.zip\n file and click \nInstall Now\n\n\nOnce the theme is uploaded you need to activate it.\n\n\n\n\n\n\nAlternative \u2014 Install Theme Via FTP\n\n\n\n\nFTP (Alternative)\n\n\nIf you face any problem during upload through dashboard, please upload the theme using FTP as guided below.\n\n\n\n\n\n\nExtract the \nvr.zip\n file in your PC.\n\n\nAccess your hosting server using an FTP client e.g. FileZilla.\n\n\nGo to the \nwp-content/themes\n folder of your WordPress installation.\n\n\nUpload the \nvr\n folder (you extracted) to the \nwp-content/themes/\n folder.\n\n\nGo to \nWordPress Dashboard \n Appearance \n Themes\n section and activate the theme.\n\n\n\n\nSTEP #2\u2014 PLUGINS INSTALLATION\n\n\nAfter activating the theme you need to install the required plugins. These plugins are needed for this theme to work. \n\n\nWhen you install and activate the theme, you will see this notice. \n\n\n\n\n Click \u201cBegin installing plugin\u201d and then select all plugins, select install and click \nApply\n to install the required plugins. As shown in the GIF below.\n\n\n\n\n Now that plugins are installed, click \nReturn to required plugin installer\n, select \nActivate\n from the drop down and click \nApply\n to activate these plugins. As shown in the GIF below.\n\n\n\n\nStep #3\u2014 Import Demo Data\n\n\nYou can quickly setup the entire theme just as shown in the the theme demo by importing demo data. It's pretty easy. All you have to do is:\n\n\n \nGo to\n: \nWordPress Admin dashboard \n Appearance \n Import Demo Data\n.\n\n\n\n\n \nImport\n a demo from available choices and click \nYes Import!\n. It may take up to five minutes to import the data. You can go and have coffee while your site gets ready. \n\n\n\n\n Once the demo import says \nThat's it, all done!\n your demo import is complete. Go ahead, and customize (\nAppearance \n Customize\n) your theme to your will!\n\n\n\n\n\n\nIf you end up with some kind of error on this step, make sure you try once again. If that doesn't work, then send what you see as an error as a support ticket to us.\n\n\n\n\n\n\nNOTE\n\n\nImporting demoo data (post, pages, images, theme settings, ...) is the easiest way to setup your theme.  It will allow you to quickly edit everything instead of creating content from scratch.", 
+            "text": "THEME SETUP\n\n\nSTEP #1\u2014 THEME INSTALLATION\n\n\n\n\nINSTALL WORDPRESS\n\n\nIn start you must have a working version of WordPress already installed. For information in regard to installing the WordPress CMS, please see the WordPress Codex \nInstalling WordPress\n.\n\n\n\n\nOnce you have a working version of WordPress, you need to do the following\n\n\n\n\nDOWNLOAD\n the theme files called \nvr-files.zip\n (which contains both the theme and related documents).\n\n\nEXTRACT\n the downloaded \n`vr-files.zip\n file.\n\n\nOPEN\n the folder called \n01- Theme\n to find the installable theme zip file called \nvr.zip\n\n\nINSTALL\n the theme by uploading \nvr.zip\n in your WordPress website.\n\n\n\n\n\n\nRECAP\n\n\nSo, it goes like this. You download the theme files you bought, you extract them in your computer and inside the theme folder \n01- Theme\n you find \nvr.zip\n file which is the theme file you need to upload in your WordPress.\n\n\n\n\nInstall Theme Via WordPress Dashboard\n\n\n\n\nAccess your WordPress site admin area. \n\n\nGo to \nAppearance \n Themes\n section.\n\n\nClick \nAdd New\n button and select the \u2018Upload Theme\u2019 option\n\n\nChoose the \nvr.zip\n file and click \nInstall Now\n\n\nOnce the theme is uploaded you need to activate it.\n\n\n\n\n\n\nAlternative \u2014 Install Theme Via FTP\n\n\n\n\nFTP (Alternative)\n\n\nIf you face any problem during upload through dashboard, please upload the theme using FTP as guided below.\n\n\n\n\n\n\nExtract the \nvr.zip\n file in your PC.\n\n\nAccess your hosting server using an FTP client e.g. FileZilla.\n\n\nGo to the \nwp-content/themes\n folder of your WordPress installation.\n\n\nUpload the \nvr\n folder (you extracted) to the \nwp-content/themes/\n folder.\n\n\nGo to \nWordPress Dashboard \n Appearance \n Themes\n section and activate the theme.\n\n\n\n\nSTEP #2\u2014 PLUGINS INSTALLATION\n\n\nAfter activating the theme you need to install the required plugins. These plugins are needed for this theme to work. \n\n\nWhen you install and activate the theme, you will see this notice. \n\n\n\n\n Click \u201cBegin installing plugin\u201d and then select all plugins, select install and click \nApply\n to install the required plugins. As shown in the GIF below.\n\n\n\n\n Now that plugins are installed, click \nReturn to required plugin installer\n, select \nActivate\n from the drop down and click \nApply\n to activate these plugins. As shown in the GIF below.\n\n\n\n\nStep #3\u2014 Import Demo Data\n\n\nYou can quickly setup the entire theme just as shown in the the theme demo by importing demo data. It's pretty easy. All you have to do is:\n\n\n \nGo to\n: \nWordPress Admin dashboard \n Appearance \n Import Demo Data\n.\n\n\n\n\n \nImport\n a demo from available choices and click \nYes Import!\n. It may take up to five minutes to import the data. You can go and have coffee while your site gets ready. \n\n\n\n\n Once the demo import says \nThat's it, all done!\n your demo import is complete. Go ahead, and customize (\nAppearance \n Customize\n) your theme to your will!\n\n\n\n\n\n\nIf you end up with some kind of error on this step, make sure you try once again. If that doesn't work, then send what you see as an error as a support ticket to us.\n\n\n\n\n\n\nNOTE\n\n\nImporting demoo data (post, pages, images, theme settings, ...) is the easiest way to setup your theme.  It will allow you to quickly edit everything instead of creating content from scratch.", 
             "title": "1. INSTALLATION"
         }, 
         {
@@ -42,7 +42,7 @@
         }, 
         {
             "location": "/installation/#step-1-theme-installation", 
-            "text": "INSTALL WORDPRESS  In start you must have a working version of WordPress already installed. For information in regard to installing the WordPress CMS, please see the WordPress Codex  Installing WordPress .   Once you have a working version of WordPress, you need to do the following   DOWNLOAD  the theme files (which contain both the theme and related documents).  EXTRACT  the downloaded  zip  file.  OPEN  the folder called  01- Theme  to find the installable theme zip file called  vr.zip  INSTALL  the theme by uploading  vr.zip  in your WordPress website.    RECAP  So, it goes like this. You download the theme files you bought, you extract them in your computer and inside the theme folder  01- Theme  you find  vr.zip  file which is the theme file you need to upload in your WordPress.", 
+            "text": "INSTALL WORDPRESS  In start you must have a working version of WordPress already installed. For information in regard to installing the WordPress CMS, please see the WordPress Codex  Installing WordPress .   Once you have a working version of WordPress, you need to do the following   DOWNLOAD  the theme files called  vr-files.zip  (which contains both the theme and related documents).  EXTRACT  the downloaded  `vr-files.zip  file.  OPEN  the folder called  01- Theme  to find the installable theme zip file called  vr.zip  INSTALL  the theme by uploading  vr.zip  in your WordPress website.    RECAP  So, it goes like this. You download the theme files you bought, you extract them in your computer and inside the theme folder  01- Theme  you find  vr.zip  file which is the theme file you need to upload in your WordPress.", 
             "title": "STEP #1\u2014 THEME INSTALLATION"
         }, 
         {
@@ -182,8 +182,23 @@
         }, 
         {
             "location": "/rentals-search/", 
-            "text": "", 
+            "text": "RENTALS SEARCH\n\n\nRentals search page is needed for the theme's search to work. \n\n\n\n\nA rental search page is where users can search different rentals listings on the site.\n\n\n\n\n\n\nAdd RENTALS SEARCH\n\n\n\n\nGO TO\n WordPress admin dashboard \n \nPages \n Add New\n.\n\n\nSELECT\n \nRENTAL SEARCH VR\n template and \nPublish\n the page.\n\n\nDESCRIPTON\n: Add description to the custom rentals SEARCH page.\n\n\nSORTBY TEXT\n: Text displayed on sort by.\n\n\nHIDE MAP?\n: Check to hide Map on this search page?\n\n\nHIDE DESTINATION?\n: Check to hide Destination on this search page?\n\n\nHIDE TYPE?\n: Check to hide Type on this search page?\n\n\nHIDE FEATURE?\n: Check to hide Feature on this search page?\n\n\nHHide Check In \n Check Out?\n: Check to hide Check In \n Check Out on this search page?\n\n\nHIDE DESCRIPTION?\n: Check to hide Description? on this search page?\n\n\nHIDE SORTING?\n: Check to hide Sorting? on this search page?\n\n\n\n\n\n\n\n\nYou should also add this page to the homepage, by configuring the \nSearch box options\n.", 
             "title": "RENTALS SEARCH"
+        }, 
+        {
+            "location": "/rentals-search/#rentals-search", 
+            "text": "Rentals search page is needed for the theme's search to work.    A rental search page is where users can search different rentals listings on the site.    Add RENTALS SEARCH   GO TO  WordPress admin dashboard    Pages   Add New .  SELECT   RENTAL SEARCH VR  template and  Publish  the page.  DESCRIPTON : Add description to the custom rentals SEARCH page.  SORTBY TEXT : Text displayed on sort by.  HIDE MAP? : Check to hide Map on this search page?  HIDE DESTINATION? : Check to hide Destination on this search page?  HIDE TYPE? : Check to hide Type on this search page?  HIDE FEATURE? : Check to hide Feature on this search page?  HHide Check In   Check Out? : Check to hide Check In   Check Out on this search page?  HIDE DESCRIPTION? : Check to hide Description? on this search page?  HIDE SORTING? : Check to hide Sorting? on this search page?     You should also add this page to the homepage, by configuring the  Search box options .", 
+            "title": "RENTALS SEARCH"
+        }, 
+        {
+            "location": "/rentals-list/", 
+            "text": "RENTALS LIST\n\n\nYou can create as many custom rentals listings as you want. \n\n\n\n\nA rental list page helps you to curate custom rentals listing based features like beds, baths, price, guests, destinations, etc. Create as many custom rental listings by collecting a few popular rentals. This feature helps you rank better at Search Engine. Think creating a custom list to enlist \"Best Rentals in Miami for Singles\" or \"10 Rentals in Paris under $300\"\n\n\n\n\n\n\nAdd RENTALS LIST\n\n\n\n\nGO TO\n WordPress admin dashboard \n \nPages \n Add New\n.\n\n\nSELECT\n \nRENTAL LIST VR\n template and \nPublish\n the page.\n\n\nHEADER BACKGROUND IMAGE\n: Add header background. Make sure the image is not too small and not too big. Recommended size is \n1920px x 450px\n (Width x Height).\n\n\nDESCRIPTON\n: Add description to the custom rentals list page.\n\n\nNUMBER OF RENTALS PER PAGE\n: Any number e.g. 6\n\n\n\n\nORDER RENTALS BY\n\n\n1\n2\n3\n4\n5\nMINIMUM BEDS\nMINIMUM BATHS\nMINIMUM GUESTS\nMINIMUM PRICE\nMAXIMUM PRICE\n\n\n\n\n\n\n\n\n\n\nDESTINATIONS\n: Press \n hold \u2318 Command (on Mac) or CTRL (on Windows) to select multiple destinations.\n\n\n\n\nFEATURES\n: Press \n hold \u2318 Command (on Mac) or CTRL (on Windows) to select multiple features.\n\n\nTYPES\n: Press \n hold \u2318 Command (on Mac) or CTRL (on Windows) to select multiple types.", 
+            "title": "RENTALS LIST"
+        }, 
+        {
+            "location": "/rentals-list/#rentals-list", 
+            "text": "You can create as many custom rentals listings as you want.    A rental list page helps you to curate custom rentals listing based features like beds, baths, price, guests, destinations, etc. Create as many custom rental listings by collecting a few popular rentals. This feature helps you rank better at Search Engine. Think creating a custom list to enlist \"Best Rentals in Miami for Singles\" or \"10 Rentals in Paris under $300\"    Add RENTALS LIST   GO TO  WordPress admin dashboard    Pages   Add New .  SELECT   RENTAL LIST VR  template and  Publish  the page.  HEADER BACKGROUND IMAGE : Add header background. Make sure the image is not too small and not too big. Recommended size is  1920px x 450px  (Width x Height).  DESCRIPTON : Add description to the custom rentals list page.  NUMBER OF RENTALS PER PAGE : Any number e.g. 6   ORDER RENTALS BY  1\n2\n3\n4\n5 MINIMUM BEDS\nMINIMUM BATHS\nMINIMUM GUESTS\nMINIMUM PRICE\nMAXIMUM PRICE     DESTINATIONS : Press   hold \u2318 Command (on Mac) or CTRL (on Windows) to select multiple destinations.   FEATURES : Press   hold \u2318 Command (on Mac) or CTRL (on Windows) to select multiple features.  TYPES : Press   hold \u2318 Command (on Mac) or CTRL (on Windows) to select multiple types.", 
+            "title": "RENTALS LIST"
         }, 
         {
             "location": "/login/", 
@@ -234,11 +249,6 @@
             "location": "/favorite/#favorite-rentals", 
             "text": "Registered users can favorite rentals. These rentals are displayed on a page called  FAVORITE RENTALS . You can add this page as follows.   Add EDIT PROFILE page   GO TO  WordPress admin dashboard    Pages   Add New .  SELECT   USER FAVORITES VR  template and  Publish  the page.  SELECT   USER FAVORITES VR  template and  Publish  the page.  HEADER BACKGROUND IMAGE : Add header background.  DESCRIPTON : Add description to the favorite page.", 
             "title": "FAVORITE RENTALS"
-        }, 
-        {
-            "location": "/rentals-list/", 
-            "text": "", 
-            "title": "RENTALS LIST"
         }, 
         {
             "location": "/rentals/", 
@@ -297,47 +307,47 @@
         }, 
         {
             "location": "/destinations/", 
-            "text": "RENTAL DESTINATIONS\n\n\nHow to Add RENTAL DESTINATIONS?", 
+            "text": "RENTAL DESTINATIONS\n\n\n\n\nRental destinations can be used to organize the rental listings.\n\n\n\n\nHow to Add RENTAL DESTINATIONS?\n\n\nTo add a rental destination follow the steps as mentioned.\n\n\n\n\nAdd RENTAL DESTINATIONS\n\n\n\n\nGO TO\n: WordPress admin dashboard \n \nVacation Rentals \n DESTINATIONS\n.\n\n\nNAME\n: The name is how destination appears on your site.\n\n\nSLUG\n: The \u201cslug\u201d is the URL-friendly version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens.\n\n\nPARENT\n: If the rental destination has a parent select it here. E.g. \nNew York\n will have \nUSA\n as its parent. \n\n\nDESCRIPTION\n: Add a description of your rental destination here.\n\n\nUPLOAD/ADD IMAGE\n: Make sure the image is not too small and not too big. Recommended size is 1920px x 450px (Width x Height).\n\n\nCLICK\n: \nAdd New Rental Destination\n.", 
             "title": "5. DESTINATIONS"
         }, 
         {
             "location": "/destinations/#rental-destinations", 
-            "text": "", 
+            "text": "Rental destinations can be used to organize the rental listings.", 
             "title": "RENTAL DESTINATIONS"
         }, 
         {
             "location": "/destinations/#how-to-add-rental-destinations", 
-            "text": "", 
+            "text": "To add a rental destination follow the steps as mentioned.   Add RENTAL DESTINATIONS   GO TO : WordPress admin dashboard    Vacation Rentals   DESTINATIONS .  NAME : The name is how destination appears on your site.  SLUG : The \u201cslug\u201d is the URL-friendly version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens.  PARENT : If the rental destination has a parent select it here. E.g.  New York  will have  USA  as its parent.   DESCRIPTION : Add a description of your rental destination here.  UPLOAD/ADD IMAGE : Make sure the image is not too small and not too big. Recommended size is 1920px x 450px (Width x Height).  CLICK :  Add New Rental Destination .", 
             "title": "How to Add RENTAL DESTINATIONS?"
         }, 
         {
             "location": "/features/", 
-            "text": "RENTAL FEATURES\n\n\nHow to Add RENTAL FEATURES?", 
+            "text": "RENTAL FEATURES\n\n\n\n\nRental features can be used to organize the rental listings as well as to show what features does a rental has.\n\n\n\n\nHow to Add RENTAL FEATURES?\n\n\nTo add a rental feature follow the steps as mentioned.\n\n\n\n\nAdd RENTAL FEATURES\n\n\n\n\nGO TO\n: WordPress admin dashboard \n \nVacation Rentals \n FEATURES\n.\n\n\nNAME\n: The name is how feature appears on your site.\n\n\nSLUG\n: The \u201cslug\u201d is the URL-friendly version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens.\n\n\nPARENT\n: Not really needed here.\n\n\nDESCRIPTION\n: Add a description of your rental feature here.\n\n\nUPLOAD/ADD IMAGE\n: Make sure the image is not too small and not too big. Recommended size is 32px x 32px (Width x Height).\n\n\nCLICK\n: \nAdd New Rental feature\n.", 
             "title": "6. FEATURES"
         }, 
         {
             "location": "/features/#rental-features", 
-            "text": "", 
+            "text": "Rental features can be used to organize the rental listings as well as to show what features does a rental has.", 
             "title": "RENTAL FEATURES"
         }, 
         {
             "location": "/features/#how-to-add-rental-features", 
-            "text": "", 
+            "text": "To add a rental feature follow the steps as mentioned.   Add RENTAL FEATURES   GO TO : WordPress admin dashboard    Vacation Rentals   FEATURES .  NAME : The name is how feature appears on your site.  SLUG : The \u201cslug\u201d is the URL-friendly version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens.  PARENT : Not really needed here.  DESCRIPTION : Add a description of your rental feature here.  UPLOAD/ADD IMAGE : Make sure the image is not too small and not too big. Recommended size is 32px x 32px (Width x Height).  CLICK :  Add New Rental feature .", 
             "title": "How to Add RENTAL FEATURES?"
         }, 
         {
             "location": "/types/", 
-            "text": "RENTAL TYPES\n\n\nHow to Add RENTAL TYPES?", 
+            "text": "RENTAL TYPES\n\n\n\n\nRental types can be used to organize the rental listings as well as to show what type does a rental belong to.\n\n\n\n\nHow to Add RENTAL TYPES?\n\n\nTo add a rental type follow the steps as mentioned.\n\n\n\n\nAdd RENTAL TYPES\n\n\n\n\nGO TO\n: WordPress admin dashboard \n \nVacation Rentals \n TYPES\n.\n\n\nNAME\n: The name is how type appears on your site.\n\n\nSLUG\n: The \u201cslug\u201d is the URL-friendly version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens.\n\n\nPARENT\n: If the rental type has a parent select it here. E.g. \nOffice\n type will have \nCommercial\n as its parent. \n\n\nDESCRIPTION\n: Add a description of your rental type here.\n\n\nUPLOAD/ADD IMAGE\n: Make sure the image is not too small and not too big. Recommended size is 32px x 32px (Width x Height).\n\n\nCLICK\n: \nAdd New Rental type\n.", 
             "title": "7. TYPES"
         }, 
         {
             "location": "/types/#rental-types", 
-            "text": "", 
+            "text": "Rental types can be used to organize the rental listings as well as to show what type does a rental belong to.", 
             "title": "RENTAL TYPES"
         }, 
         {
             "location": "/types/#how-to-add-rental-types", 
-            "text": "", 
+            "text": "To add a rental type follow the steps as mentioned.   Add RENTAL TYPES   GO TO : WordPress admin dashboard    Vacation Rentals   TYPES .  NAME : The name is how type appears on your site.  SLUG : The \u201cslug\u201d is the URL-friendly version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens.  PARENT : If the rental type has a parent select it here. E.g.  Office  type will have  Commercial  as its parent.   DESCRIPTION : Add a description of your rental type here.  UPLOAD/ADD IMAGE : Make sure the image is not too small and not too big. Recommended size is 32px x 32px (Width x Height).  CLICK :  Add New Rental type .", 
             "title": "How to Add RENTAL TYPES?"
         }, 
         {
