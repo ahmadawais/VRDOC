@@ -88,8 +88,7 @@ Configure the Destination section on homepage.
     - **ENABLE Destination SECTION**? `Yes` or `No`.
     - **DESTINATION SECTION TITLE**: Example Value: Popular Destinations
     - **Destination SECTION DESCRIPTON**: You can add description for this section.
-
-    - **SELECT POPULAR DESTINATIONS**:
+    - **SELECT POPULAR DESTINATIONS**: You can select any number of popular destinations here.
 
 !!!Note "NOTE"
     
@@ -103,5 +102,66 @@ Configure the Destination section on homepage.
     
     To reorder how destinations get displayed on the homepage, edit a Destination to add order. (Lower value has more priority i.e. `10` order will get displayed before `20` order).
 
+![img](img/vr-57.jpg)
 
-![img](img/vr-51.jpg)
+### 5. STEPS SECTION SETTINGS
+
+Configure the Steps section on homepage.
+
+![img](img/vr-58.jpg)
+
+!!!summary "STEPS SECTION"
+    
+    - **ENABLE STEPS SECTION**? `Yes` or `No`.
+    - ENABLE STEPS SECTION BACKGROUND (ARROW PASSING THROUGH THE STEPS)? `Yes` or `No`. Which only looks good if you have 3 steps and not more!
+    - **STEPS SECTION TITLE**: Example Value: How Does It Work?
+    - **Destination SECTION DESCRIPTON**: You can add description for this section.
+    - **STEPS**: You can add as many steps as you want, a single step contains:
+
+            STEP ICON
+            STEP NAME
+            STEP DESCRIPTOIN
+
+    - **STEPS SECTION BUTTON TEXT**: Example Value: Read More
+    - **STEPS SECTION BUTTON URL**: Example Value: https://Google.com/
+
+
+![img](img/vr-59.jpg)
+
+### 6. FEATURED RENTALS SETTINGS
+
+Configure the Featured Rentals section on homepage.
+
+![img](img/vr-60.jpg)
+
+!!!summary "FEATURED RENTALS SECTION"
+    
+    - **ENABLE FEATURED RENTALS SECTION**? `Yes` or `No`.
+    - **FEATURED RENTALS SECTION TITLE**: Example Value: Featured Rentals
+    - **FEATURED RENTALS DESCRIPTON**: You can add description for this section.
+    - **FEATURED RENTALS**: You can add 2, 4, 6, 8, or 10 featured rentals.
+
+![img](img/vr-61.jpg)
+
+### 7. TESTIMONIAL & NEWS SETTINGS
+
+Configure the TESTIMONIAL & NEWS section on homepage.
+
+![img](img/vr-62.jpg)
+
+!!!summary "TESTIMONIAL & NEWS SECTION"
+    
+    - **ENABLE TESTIMONIAL & NEWS SECTION**? `Yes` or `No`.
+    - **TESTIMONIAL & NEWS SECTION TITLE**: Example Value: HAPPY CUSTOMERS!
+    - **TESTIMONIALS**: You can add as many testimonials as you want. Each testimonial has:
+
+            TESTIMONIAL USER IMAGE
+            (OPTIONAL) TESTIMONIAL URL LINK
+            TESTIMONIAL USER'S NAME
+            TESTIMONIAL USER'S DETAILS
+            TESTIMONIAL TEXT
+
+    - **NEWS TITLE**: Title for News section.
+    - **NEWS BUTTON TEXT**: News button text.
+
+![img](img/vr-63.jpg)

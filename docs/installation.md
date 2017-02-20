@@ -9,8 +9,8 @@ Once you have a working version of WordPress, you need to do the following
 
 1. **DOWNLOAD** the theme files (which contain both the theme and related documents).
 2. **EXTRACT** the downloaded **zip** file.
-3. **OPEN** the folder called `01- Theme` to find the installable theme zip file called **vr.zip*
-4.  **INSTALL** the theme by uploading **vr.zip** in your WordPress website.
+3. **OPEN** the folder called `01- Theme` to find the installable theme zip file called **vr.zip**
+4. **INSTALL** the theme by uploading **vr.zip** in your WordPress website.
 
 !!!summary "RECAP" 
     So, it goes like this. You download the theme files you bought, you extract them in your computer and inside the theme folder `01- Theme` you find **vr.zip** file which is the theme file you need to upload in your WordPress.
@@ -40,38 +40,41 @@ Once you have a working version of WordPress, you need to do the following
 
 After activating the theme you need to install the required plugins. These plugins are needed for this theme to work. 
 
-Click “Begin installing plugin”.
+When you install and activate the theme, you will see this notice. 
 
-image_1
+![img](img/vr-51.jpg)
 
-Here is the list of plugins which are recommend by ProductPress. So, first select all these plugins and then click “Apply” to “Install” these via the drop down menu for the “Bulk Actions”.
+:fire: Click “Begin installing plugin” and then select all plugins, select install and click `Apply` to install the required plugins. As shown in the GIF below.
 
-image_2
+![img](img/vr-52.gif)
 
-After installation we will return to the plugin installer and from here we will click “Apply” to “Activate” the plugins via the drop down menu for the “Bulk Actions”.
+:fire: Now that plugins are installed, click `Return to required plugin installer`, select `Activate` from the drop down and click `Apply` to activate these plugins. As shown in the GIF below.
 
-image_3
+![img](img/vr-53.gif)
 
-After activation you may get to see welcome messages by the activated plugins e.g. Easy Digital Downloads. So, don’t get confused with these.
 
-## Step #3— Import Demo Contents
-You can quickly set up your theme via importing the XML contents of our demo site, follow the steps below:
+## Step #3— Import Demo Data
 
-Step 1
+You can quickly setup the entire theme just as shown in the the theme demo by importing demo data. It's pretty easy. All you have to do is:
 
-Click the “Theme Options” section from the side or the top menu
-Then scroll down the page and click “Demo Importer”
-image_4
+:fire: **Go to**: `WordPress Admin dashboard > Appearance > Import Demo Data`.
 
-Step 2
+![img](img/vr-54.jpg)
 
-Various demos will be listed here
-Choose your demo and click “Import Demo“
-image_5
+:fire: **Import** a demo from available choices and click `Yes Import!`. It may take up to five minutes to import the data. You can go and have coffee while your site gets ready. 
 
-Step 3
+![img](img/vr-55.gif)
 
-It will take a few minutes to install and upload all the content. Once done, the Import Demo button will convert to Imported. It will look like this.
+:fire: Once the demo import says **That's it, all done!** your demo import is complete. Go ahead, and customize (`Appearance > Customize`) your theme to your will!
 
-image_6
+![img](img/vr-56.jpg)
+
+!!!warning ""
+    If you end up with some kind of error on this step, make sure you try once again. If that doesn't work, then send what you see as an error as a support ticket to us.
+
+!!!note "NOTE"
+    Importing demoo data (post, pages, images, theme settings, ...) is the easiest way to setup your theme.  It will allow you to quickly edit everything instead of creating content from scratch.
+
+
+
 
