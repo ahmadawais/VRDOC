@@ -29,12 +29,12 @@ pages:
     - 3. PAGES:
         - HOMEPAGE: homepage.md
         - RENTALS SEARCH: rentals-search.md
+        - RENTALS LIST: rentals-list.md
         - LOGIN: login.md
         - REGISTER: register.md
         - RESET: reset.md
         - EDIT PROFIE: edit-profile.md
         - FAVORITE: favorite.md
-        - RENTALS LIST: rentals-list.md
     - 4. RENTALS: rentals.md
     - 5. DESTINATIONS: destinations.md
     - 6. FEATURES: features.md

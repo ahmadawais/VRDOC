@@ -7,8 +7,8 @@
 
 Once you have a working version of WordPress, you need to do the following
 
-1. **DOWNLOAD** the theme files (which contain both the theme and related documents).
-2. **EXTRACT** the downloaded **zip** file.
+1. **DOWNLOAD** the theme files called `vr-files.zip` (which contains both the theme and related documents).
+2. **EXTRACT** the downloaded **`vr-files.zip** file.
 3. **OPEN** the folder called `01- Theme` to find the installable theme zip file called **vr.zip**
 4. **INSTALL** the theme by uploading **vr.zip** in your WordPress website.
 
