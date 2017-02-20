@@ -66,59 +66,9 @@
             "title": "Step #3\u2014 Import Demo Data"
         }, 
         {
-            "location": "/homepage/", 
-            "text": "HOMEPAGE\n\n\nVacationRentals\n WordPress theme comes with a beautiful homepage design. It's actually a page with several options listed below.\n\n\nConfigure \nVacationRentals\n Homepage!\n\n\nTo configure the homepage, do the following.\n\n\n\n\n\n\nACCESS\n the WordPress Admin Dashboard.\n\n\nGO TO\n \nPages \n Add New\n and then select \nHomepage VR\n page template as shown below.\n\n\nPUBLISH\n or \nSAVE\n the page as draft before getting started.\n\n\n\n\n\n\n\n\n\n\n\n\nACCESS\n the WordPress Admin Dashboard.\n\n\nGO TO\n \nPages \n Add New\n and then select \nHomepage VR\n page template as shown below.\n\n\nPUBLISH\n or \nSAVE\n the page as draft before getting started.\n\n\n\n\n\n\n\n\n\n\nNow that the homepage is published, let's start configuring it. In the metabox called \nPAGE SETTINGS\n you can configure the following.\n\n\n1. BOOKING FORM SETTINGS\n\n\nConfigure the booking form on the homepage slider.\n\n\n\n\n\n\nBOOKING FORM\n\n\n\n\nENABLE BOOKING FORM\n \nYes\n or \nNo\n.\n\n\nBOOKING FORM TITLE\n Example Value: Book Now\n\n\nENABLE SEARCH WITH CHECKIN/CHECKOUT DATE\n? Yes.No.\n\n\nSEARCH BUTTON TEXT Check Availability\n Example Value: Check Availability\n\n\nSELECT RENTAL SEARCH PAGE\n Select Rental Search Page that you have published with \nRental Search VR\n page template. \u2014 Check the Page menu in documentation for this page.\n\n\n\n\n\n\n\n\n2. FEATURE SECTION SETTINGS\n\n\nConfigure the feature section on homepage.\n\n\n\n\n\n\nFEATURE SECTION\n\n\n\n\nENABLE FEATURE SECTION\n? \nYes\n or \nNo\n.\n\n\nFEATURE SECTION TITLE\n: Example Value: Features\n\n\nFEATURE SECTION DESCRIPTON\n: You can add description for this section.\n\n\nADD FEATURES\n: You can add as many features as you want, where each \nFeature\n can have a \nFEATURE ICON\n, \nFEATURE NAME\n, and \nFEATURE DESCRIPTOIN\n.\n\n\nFEATURE SECTION BUTTON TEXT\n: Example Value: Read More\n\n\nFEATURE SECTION BUTTON URL\n: Example Value: \nhttp://Google.com/\n\n\n\n\n\n\n\n\n3. CTA SECTION SETTINGS\n\n\nConfigure the CTA section on homepage.\n\n\n\n\n\n\nCTA SECTION\n\n\n\n\nENABLE CTA SECTION\n? \nYes\n or \nNo\n.\n\n\nCTA SECTION TITLE\n: Example Value: Call to Action Section\n\n\nCTA SECTION DESCRIPTON\n: You can add description for this section.\n\n\nCTA SECTION BUTTON TEXT\n: Example Value: Read More\n\n\nCTA SECTION BUTTON URL\n: Example Value: \nhttp://Google.com/\n\n\nCTA SECTION BACKGROUND IMAGE\n: Make sure it is not too small and not too big. Recommended size is 1920px x 450px (Width x Height)\n\n\nCTA SECTION ICON IMAGE\n: Make sure it is not too big. E.g. Recommended size is 50px x 50px (Width x Height)\n\n\n\n\n\n\n\n\n4. DESTINATION SECTION SETTINGS\n\n\nConfigure the Destination section on homepage.\n\n\n\n\n\n\nDESTINATION SECTION\n\n\n\n\nENABLE Destination SECTION\n? \nYes\n or \nNo\n.\n\n\nDESTINATION SECTION TITLE\n: Example Value: Popular Destinations\n\n\nDestination SECTION DESCRIPTON\n: You can add description for this section.\n\n\nSELECT POPULAR DESTINATIONS\n: You can select any number of popular destinations here.\n\n\n\n\n\n\n\n\nNOTE\n\n\nThis section looks best when 4 or 7 destinations are selected.\n\n\n\n\n\n\nIf no destinations are being displayed, then you need to add a few destinations via Destinations Page. (Make sure you have added feature images to the destinations you select here since these feature images will be displayed at the homepage).\n\n\n\n\n\n\nTo reorder how destinations get displayed on the homepage, edit a Destination to add order. (Lower value has more priority i.e. \n10\n order will get displayed before \n20\n order).\n\n\n\n\n\n\n5. STEPS SECTION SETTINGS\n\n\nConfigure the Steps section on homepage.\n\n\n\n\n\n\nSTEPS SECTION\n\n\n\n\nENABLE STEPS SECTION\n? \nYes\n or \nNo\n.\n\n\nENABLE STEPS SECTION BACKGROUND (ARROW PASSING THROUGH THE STEPS)? \nYes\n or \nNo\n. Which only looks good if you have 3 steps and not more!\n\n\nSTEPS SECTION TITLE\n: Example Value: How Does It Work?\n\n\nDestination SECTION DESCRIPTON\n: You can add description for this section.\n\n\n\n\nSTEPS\n: You can add as many steps as you want, a single step contains:\n\n\n1\n2\n3\nSTEP ICON\nSTEP NAME\nSTEP DESCRIPTOIN\n\n\n\n\n\n\n\n\n\n\nSTEPS SECTION BUTTON TEXT\n: Example Value: Read More\n\n\n\n\nSTEPS SECTION BUTTON URL\n: Example Value: \nhttps://Google.com/\n\n\n\n\n\n\n\n\n6. FEATURED RENTALS SETTINGS\n\n\nConfigure the Featured Rentals section on homepage.\n\n\n\n\n\n\nFEATURED RENTALS SECTION\n\n\n\n\nENABLE FEATURED RENTALS SECTION\n? \nYes\n or \nNo\n.\n\n\nFEATURED RENTALS SECTION TITLE\n: Example Value: Featured Rentals\n\n\nFEATURED RENTALS DESCRIPTON\n: You can add description for this section.\n\n\nFEATURED RENTALS\n: You can add 2, 4, 6, 8, or 10 featured rentals.\n\n\n\n\n\n\n\n\n7. TESTIMONIAL \n NEWS SETTINGS\n\n\nConfigure the TESTIMONIAL \n NEWS section on homepage.\n\n\n\n\n\n\nTESTIMONIAL \n NEWS SECTION\n\n\n\n\nENABLE TESTIMONIAL \n NEWS SECTION\n? \nYes\n or \nNo\n.\n\n\nTESTIMONIAL \n NEWS SECTION TITLE\n: Example Value: HAPPY CUSTOMERS!\n\n\n\n\nTESTIMONIALS\n: You can add as many testimonials as you want. Each testimonial has:\n\n\n1\n2\n3\n4\n5\nTESTIMONIAL USER IMAGE\n(OPTIONAL) TESTIMONIAL URL LINK\nTESTIMONIAL USER\nS NAME\nTESTIMONIAL USER\nS DETAILS\nTESTIMONIAL TEXT\n\n\n\n\n\n\n\n\n\n\nNEWS TITLE\n: Title for News section.\n\n\n\n\nNEWS BUTTON TEXT\n: News button text.", 
-            "title": "HOMEPAGE"
-        }, 
-        {
-            "location": "/homepage/#homepage", 
-            "text": "VacationRentals  WordPress theme comes with a beautiful homepage design. It's actually a page with several options listed below.", 
-            "title": "HOMEPAGE"
-        }, 
-        {
-            "location": "/homepage/#configure-vacationrentals-homepage", 
-            "text": "To configure the homepage, do the following.    ACCESS  the WordPress Admin Dashboard.  GO TO   Pages   Add New  and then select  Homepage VR  page template as shown below.  PUBLISH  or  SAVE  the page as draft before getting started.       ACCESS  the WordPress Admin Dashboard.  GO TO   Pages   Add New  and then select  Homepage VR  page template as shown below.  PUBLISH  or  SAVE  the page as draft before getting started.      Now that the homepage is published, let's start configuring it. In the metabox called  PAGE SETTINGS  you can configure the following.", 
-            "title": "Configure VacationRentals Homepage!"
-        }, 
-        {
-            "location": "/homepage/#1-booking-form-settings", 
-            "text": "Configure the booking form on the homepage slider.    BOOKING FORM   ENABLE BOOKING FORM   Yes  or  No .  BOOKING FORM TITLE  Example Value: Book Now  ENABLE SEARCH WITH CHECKIN/CHECKOUT DATE ? Yes.No.  SEARCH BUTTON TEXT Check Availability  Example Value: Check Availability  SELECT RENTAL SEARCH PAGE  Select Rental Search Page that you have published with  Rental Search VR  page template. \u2014 Check the Page menu in documentation for this page.", 
-            "title": "1. BOOKING FORM SETTINGS"
-        }, 
-        {
-            "location": "/homepage/#2-feature-section-settings", 
-            "text": "Configure the feature section on homepage.    FEATURE SECTION   ENABLE FEATURE SECTION ?  Yes  or  No .  FEATURE SECTION TITLE : Example Value: Features  FEATURE SECTION DESCRIPTON : You can add description for this section.  ADD FEATURES : You can add as many features as you want, where each  Feature  can have a  FEATURE ICON ,  FEATURE NAME , and  FEATURE DESCRIPTOIN .  FEATURE SECTION BUTTON TEXT : Example Value: Read More  FEATURE SECTION BUTTON URL : Example Value:  http://Google.com/", 
-            "title": "2. FEATURE SECTION SETTINGS"
-        }, 
-        {
-            "location": "/homepage/#3-cta-section-settings", 
-            "text": "Configure the CTA section on homepage.    CTA SECTION   ENABLE CTA SECTION ?  Yes  or  No .  CTA SECTION TITLE : Example Value: Call to Action Section  CTA SECTION DESCRIPTON : You can add description for this section.  CTA SECTION BUTTON TEXT : Example Value: Read More  CTA SECTION BUTTON URL : Example Value:  http://Google.com/  CTA SECTION BACKGROUND IMAGE : Make sure it is not too small and not too big. Recommended size is 1920px x 450px (Width x Height)  CTA SECTION ICON IMAGE : Make sure it is not too big. E.g. Recommended size is 50px x 50px (Width x Height)", 
-            "title": "3. CTA SECTION SETTINGS"
-        }, 
-        {
-            "location": "/homepage/#4-destination-section-settings", 
-            "text": "Configure the Destination section on homepage.    DESTINATION SECTION   ENABLE Destination SECTION ?  Yes  or  No .  DESTINATION SECTION TITLE : Example Value: Popular Destinations  Destination SECTION DESCRIPTON : You can add description for this section.  SELECT POPULAR DESTINATIONS : You can select any number of popular destinations here.     NOTE  This section looks best when 4 or 7 destinations are selected.    If no destinations are being displayed, then you need to add a few destinations via Destinations Page. (Make sure you have added feature images to the destinations you select here since these feature images will be displayed at the homepage).    To reorder how destinations get displayed on the homepage, edit a Destination to add order. (Lower value has more priority i.e.  10  order will get displayed before  20  order).", 
-            "title": "4. DESTINATION SECTION SETTINGS"
-        }, 
-        {
-            "location": "/homepage/#5-steps-section-settings", 
-            "text": "Configure the Steps section on homepage.    STEPS SECTION   ENABLE STEPS SECTION ?  Yes  or  No .  ENABLE STEPS SECTION BACKGROUND (ARROW PASSING THROUGH THE STEPS)?  Yes  or  No . Which only looks good if you have 3 steps and not more!  STEPS SECTION TITLE : Example Value: How Does It Work?  Destination SECTION DESCRIPTON : You can add description for this section.   STEPS : You can add as many steps as you want, a single step contains:  1\n2\n3 STEP ICON\nSTEP NAME\nSTEP DESCRIPTOIN     STEPS SECTION BUTTON TEXT : Example Value: Read More   STEPS SECTION BUTTON URL : Example Value:  https://Google.com/", 
-            "title": "5. STEPS SECTION SETTINGS"
-        }, 
-        {
-            "location": "/homepage/#6-featured-rentals-settings", 
-            "text": "Configure the Featured Rentals section on homepage.    FEATURED RENTALS SECTION   ENABLE FEATURED RENTALS SECTION ?  Yes  or  No .  FEATURED RENTALS SECTION TITLE : Example Value: Featured Rentals  FEATURED RENTALS DESCRIPTON : You can add description for this section.  FEATURED RENTALS : You can add 2, 4, 6, 8, or 10 featured rentals.", 
-            "title": "6. FEATURED RENTALS SETTINGS"
-        }, 
-        {
-            "location": "/homepage/#7-testimonial-news-settings", 
-            "text": "Configure the TESTIMONIAL   NEWS section on homepage.    TESTIMONIAL   NEWS SECTION   ENABLE TESTIMONIAL   NEWS SECTION ?  Yes  or  No .  TESTIMONIAL   NEWS SECTION TITLE : Example Value: HAPPY CUSTOMERS!   TESTIMONIALS : You can add as many testimonials as you want. Each testimonial has:  1\n2\n3\n4\n5 TESTIMONIAL USER IMAGE\n(OPTIONAL) TESTIMONIAL URL LINK\nTESTIMONIAL USER S NAME\nTESTIMONIAL USER S DETAILS\nTESTIMONIAL TEXT     NEWS TITLE : Title for News section.   NEWS BUTTON TEXT : News button text.", 
-            "title": "7. TESTIMONIAL &amp; NEWS SETTINGS"
-        }, 
-        {
             "location": "/customization/", 
             "text": "CUSTOMIZATION\n\n\n\n\nCUSTOMIZER\n\n\nVacationRentals\n WordPress theme can be customized to suit your needs. It uses \nWordPress Customizer\n to help you customize the settings. \n\n\n\n\nCustomize\n\n\nTo customize \nVacationRentals\n theme, do the following.\n\n\n\n\n\n\nACCESS\n your WordPress site admin dashboard.\n\n\nOPEN\n the \nWordPress Customizer\n by clicking \nAppearance \n Customize\n.\n\n\n\n\n\n\n\n\n\n\nVacation Rentals Options\n\n\nInside customizer you'll find a menu called \nVacation Rentals Options\n. \nThat's where the magic happens. You can customize this theme to suit your needs from this menu.\n\n\n\n\n\n\nOptions\n\n\nYou can find the following options to customize this theme.\n\n\n\n\nLet's take a look at all the available customization options.\n\n\n\n\n Header Settings\n\n\nTheme header can be customized from here. You can make following changes in the header:\n\n\n\n\n\n\nHIDE\n \nCall Us\n section.\n\n\nCHANGE\n \nCall Us\n text.\n\n\nADD\n your phone number.\n\n\nCHANGE\n \nMail Us\n text.\n\n\nADD\n your email address.\n\n\nHIDE\n social media icons.\n\n\n\n\n\n\n\n\n\n\n Social Settings\n\n\nSocial settings can be customized from here. You can make following changes:\n\n\n\n\n\n\nHIDE\n a social icon.\n\n\nAdd\n your social links.\n\n\n\n\n\n\n\n\nSocial Icons are available for:\n\n\n\n\nFacebook\n\n\nTwitter\n\n\nGoogle Plus\n\n\nSkype\n\n\nLinkedIn\n\n\nYoutube\n\n\nInstagram\n\n\nVimeo\n\n\n\n\n\n\n\n\n\n\n Single Rental Settings\n\n\nSingle Rental settings can be customized from here. You can make following changes:\n\n\n\n\n\n\nHIDE\n the Slider (for single rental listings).\n\n\nHIDE\n the Address (for single rental listings).\n\n\nHIDE\n the Price (for single rental listings).\n\n\nHIDE\n the Beds (for single rental listings).\n\n\nHIDE\n the Guests (for single rental listings).\n\n\nHIDE\n the Baths (for single rental listings).\n\n\nHIDE\n the Features (for single rental listings).\n\n\nHIDE\n the Map (for single rental listings).\n\n\nHIDE\n the Video (for single rental listings).\n\n\nHIDE\n the Reviews (for single rental listings).\n\n\nHIDE\n the Booking (for single rental listings).\n\n\nHIDE\n the Agent (for single rental listings).\n\n\nHIDE\n the Similar Rentals (for single rental listings).\n\n\nADD\n \nBooking Widget\n Description which \nADD\n a general description for booking widget on all single rental listings.\n\n\nADD\n Booking Widget Points. Example: [vr_point] Your Point [/vr_point]. Which adds points at the end of the booking widget on all single rental listings.\n\n\n\n\n\n\n\n\n\n\n Membership Settings\n\n\nMembership settings can be customized from here. You can make following changes:\n\n\n\n\n\n\n\n\nSELECT\n the \nLogin\n page \n\n\n (\nADD\n a new page with \nLogin VR\n page template and select it here).\n\n\n\n\n\n\nSELECT\n the \nRegister\n page \n\n\n (\nADD\n a new page with \nRegister VR\n page template and select it here).\n\n\n\n\n\n\nSELECT\n the \nReset\n page \n\n\n (\nADD\n a new page with \nReset VR\n page template and select it here).\n\n\n\n\n\n\n\n\n\n\n\n\n Single Blog Post Settings\n\n\nSingle Blog Post settings can be customized from here. You can make following changes:\n\n\n\n\n\n\nHIDE\n the Author Box (for single blog posts)..\n\n\n\n\n\n\n\n\n\n\n Category/Term Settings\n\n\nCategory/Term settings can be customized from here. You can make following changes:\n\n\n\n\n\n\nUPLOAD\n a default image for category/term!\n\n\n\n\n\n\n\n\n\n\n Footer Settings\n\n\nFooter settings can be customized from here. You can make following changes:\n\n\n\n\n\n\nHIDE\n Call to Action Section in the footer.\n\n\nUPLOAD\n a background image for CTA Section.\n\n\nADD\n a heading for call to action section.\n\n\nADD\n a description for call to action section.\n\n\nADD\n button text for call to action button.\n\n\nADD\n a URL for call to action button.\n\n\nUPLOAD\n a footer logo\n\n\nHIDE\n Social Icons in the footer.\n\n\nADD\n footer credits (Basic HTML tags are allowed E.g. Link)\n\n\n\n\n\n\n\n\n\n\n General Theme Settings\n\n\nGeneral Theme settings can be customized from here. You can make following changes:\n\n\n\n\n\n\nDISABLE\n Page Load Animation.\n\n\nDISPLAY\n page load animations.\n\n\nOPEN\n Navigation Menu by default.\n\n\nDISPLAY\n navigation Menu by default.\n\n\n\n\n\n\n\n\nThat's all for customization of this theme. \n\n\n\n\nDid we miss something? Let us know!", 
-            "title": "3. CUSTOMIZATION"
+            "title": "2. CUSTOMIZATION"
         }, 
         {
             "location": "/customization/#customization", 
@@ -179,6 +129,116 @@
             "location": "/customization/#general-theme-settings", 
             "text": "General Theme settings can be customized from here. You can make following changes:    DISABLE  Page Load Animation.  DISPLAY  page load animations.  OPEN  Navigation Menu by default.  DISPLAY  navigation Menu by default.     That's all for customization of this theme.    Did we miss something? Let us know!", 
             "title": "General Theme Settings"
+        }, 
+        {
+            "location": "/homepage/", 
+            "text": "HOMEPAGE\n\n\nVacationRentals\n WordPress theme comes with a beautiful homepage design. It's actually a page with several options listed below.\n\n\nConfigure \nVacationRentals\n Homepage!\n\n\nTo configure the homepage, do the following.\n\n\n\n\n\n\nACCESS\n the WordPress Admin Dashboard.\n\n\nGO TO\n \nPages \n Add New\n and then select \nHomepage VR\n page template as shown below.\n\n\nPUBLISH\n or \nSAVE\n the page as draft before getting started.\n\n\n\n\n\n\n\n\n\n\n\n\nACCESS\n the WordPress Admin Dashboard.\n\n\nGO TO\n \nPages \n Add New\n and then select \nHomepage VR\n page template as shown below.\n\n\nPUBLISH\n or \nSAVE\n the page as draft before getting started.\n\n\n\n\n\n\n\n\n\n\nNow that the homepage is published, let's start configuring it. In the metabox called \nPAGE SETTINGS\n you can configure the following.\n\n\n1. BOOKING FORM SETTINGS\n\n\nConfigure the booking form on the homepage slider.\n\n\n\n\n\n\nBOOKING FORM\n\n\n\n\nENABLE BOOKING FORM\n \nYes\n or \nNo\n.\n\n\nBOOKING FORM TITLE\n Example Value: Book Now\n\n\nENABLE SEARCH WITH CHECKIN/CHECKOUT DATE\n? Yes.No.\n\n\nSEARCH BUTTON TEXT Check Availability\n Example Value: Check Availability\n\n\nSELECT RENTAL SEARCH PAGE\n Select Rental Search Page that you have published with \nRental Search VR\n page template. \u2014 Check the Page menu in documentation for this page.\n\n\n\n\n\n\n\n\n2. FEATURE SECTION SETTINGS\n\n\nConfigure the feature section on homepage.\n\n\n\n\n\n\nFEATURE SECTION\n\n\n\n\nENABLE FEATURE SECTION\n? \nYes\n or \nNo\n.\n\n\nFEATURE SECTION TITLE\n: Example Value: Features\n\n\nFEATURE SECTION DESCRIPTON\n: You can add description for this section.\n\n\nADD FEATURES\n: You can add as many features as you want, where each \nFeature\n can have a \nFEATURE ICON\n, \nFEATURE NAME\n, and \nFEATURE DESCRIPTOIN\n.\n\n\nFEATURE SECTION BUTTON TEXT\n: Example Value: Read More\n\n\nFEATURE SECTION BUTTON URL\n: Example Value: \nhttp://Google.com/\n\n\n\n\n\n\n\n\n3. CTA SECTION SETTINGS\n\n\nConfigure the CTA section on homepage.\n\n\n\n\n\n\nCTA SECTION\n\n\n\n\nENABLE CTA SECTION\n? \nYes\n or \nNo\n.\n\n\nCTA SECTION TITLE\n: Example Value: Call to Action Section\n\n\nCTA SECTION DESCRIPTON\n: You can add description for this section.\n\n\nCTA SECTION BUTTON TEXT\n: Example Value: Read More\n\n\nCTA SECTION BUTTON URL\n: Example Value: \nhttp://Google.com/\n\n\nCTA SECTION BACKGROUND IMAGE\n: Make sure it is not too small and not too big. Recommended size is 1920px x 450px (Width x Height)\n\n\nCTA SECTION ICON IMAGE\n: Make sure it is not too big. E.g. Recommended size is 50px x 50px (Width x Height)\n\n\n\n\n\n\n\n\n4. DESTINATION SECTION SETTINGS\n\n\nConfigure the Destination section on homepage.\n\n\n\n\n\n\nDESTINATION SECTION\n\n\n\n\nENABLE Destination SECTION\n? \nYes\n or \nNo\n.\n\n\nDESTINATION SECTION TITLE\n: Example Value: Popular Destinations\n\n\nDestination SECTION DESCRIPTON\n: You can add description for this section.\n\n\nSELECT POPULAR DESTINATIONS\n: You can select any number of popular destinations here.\n\n\n\n\n\n\n\n\nNOTE\n\n\nThis section looks best when 4 or 7 destinations are selected.\n\n\n\n\n\n\nIf no destinations are being displayed, then you need to add a few destinations via Destinations Page. (Make sure you have added feature images to the destinations you select here since these feature images will be displayed at the homepage).\n\n\n\n\n\n\nTo reorder how destinations get displayed on the homepage, edit a Destination to add order. (Lower value has more priority i.e. \n10\n order will get displayed before \n20\n order).\n\n\n\n\n\n\n5. STEPS SECTION SETTINGS\n\n\nConfigure the Steps section on homepage.\n\n\n\n\n\n\nSTEPS SECTION\n\n\n\n\nENABLE STEPS SECTION\n? \nYes\n or \nNo\n.\n\n\nENABLE STEPS SECTION BACKGROUND (ARROW PASSING THROUGH THE STEPS)? \nYes\n or \nNo\n. Which only looks good if you have 3 steps and not more!\n\n\nSTEPS SECTION TITLE\n: Example Value: How Does It Work?\n\n\nDestination SECTION DESCRIPTON\n: You can add description for this section.\n\n\n\n\nSTEPS\n: You can add as many steps as you want, a single step contains:\n\n\n1\n2\n3\nSTEP ICON\nSTEP NAME\nSTEP DESCRIPTOIN\n\n\n\n\n\n\n\n\n\n\nSTEPS SECTION BUTTON TEXT\n: Example Value: Read More\n\n\n\n\nSTEPS SECTION BUTTON URL\n: Example Value: \nhttps://Google.com/\n\n\n\n\n\n\n\n\n6. FEATURED RENTALS SETTINGS\n\n\nConfigure the Featured Rentals section on homepage.\n\n\n\n\n\n\nFEATURED RENTALS SECTION\n\n\n\n\nENABLE FEATURED RENTALS SECTION\n? \nYes\n or \nNo\n.\n\n\nFEATURED RENTALS SECTION TITLE\n: Example Value: Featured Rentals\n\n\nFEATURED RENTALS DESCRIPTON\n: You can add description for this section.\n\n\nFEATURED RENTALS\n: You can add 2, 4, 6, 8, or 10 featured rentals.\n\n\n\n\n\n\n\n\n7. TESTIMONIAL \n NEWS SETTINGS\n\n\nConfigure the TESTIMONIAL \n NEWS section on homepage.\n\n\n\n\n\n\nTESTIMONIAL \n NEWS SECTION\n\n\n\n\nENABLE TESTIMONIAL \n NEWS SECTION\n? \nYes\n or \nNo\n.\n\n\nTESTIMONIAL \n NEWS SECTION TITLE\n: Example Value: HAPPY CUSTOMERS!\n\n\n\n\nTESTIMONIALS\n: You can add as many testimonials as you want. Each testimonial has:\n\n\n1\n2\n3\n4\n5\nTESTIMONIAL USER IMAGE\n(OPTIONAL) TESTIMONIAL URL LINK\nTESTIMONIAL USER\nS NAME\nTESTIMONIAL USER\nS DETAILS\nTESTIMONIAL TEXT\n\n\n\n\n\n\n\n\n\n\nNEWS TITLE\n: Title for News section.\n\n\n\n\nNEWS BUTTON TEXT\n: News button text.", 
+            "title": "HOMEPAGE"
+        }, 
+        {
+            "location": "/homepage/#homepage", 
+            "text": "VacationRentals  WordPress theme comes with a beautiful homepage design. It's actually a page with several options listed below.", 
+            "title": "HOMEPAGE"
+        }, 
+        {
+            "location": "/homepage/#configure-vacationrentals-homepage", 
+            "text": "To configure the homepage, do the following.    ACCESS  the WordPress Admin Dashboard.  GO TO   Pages   Add New  and then select  Homepage VR  page template as shown below.  PUBLISH  or  SAVE  the page as draft before getting started.       ACCESS  the WordPress Admin Dashboard.  GO TO   Pages   Add New  and then select  Homepage VR  page template as shown below.  PUBLISH  or  SAVE  the page as draft before getting started.      Now that the homepage is published, let's start configuring it. In the metabox called  PAGE SETTINGS  you can configure the following.", 
+            "title": "Configure VacationRentals Homepage!"
+        }, 
+        {
+            "location": "/homepage/#1-booking-form-settings", 
+            "text": "Configure the booking form on the homepage slider.    BOOKING FORM   ENABLE BOOKING FORM   Yes  or  No .  BOOKING FORM TITLE  Example Value: Book Now  ENABLE SEARCH WITH CHECKIN/CHECKOUT DATE ? Yes.No.  SEARCH BUTTON TEXT Check Availability  Example Value: Check Availability  SELECT RENTAL SEARCH PAGE  Select Rental Search Page that you have published with  Rental Search VR  page template. \u2014 Check the Page menu in documentation for this page.", 
+            "title": "1. BOOKING FORM SETTINGS"
+        }, 
+        {
+            "location": "/homepage/#2-feature-section-settings", 
+            "text": "Configure the feature section on homepage.    FEATURE SECTION   ENABLE FEATURE SECTION ?  Yes  or  No .  FEATURE SECTION TITLE : Example Value: Features  FEATURE SECTION DESCRIPTON : You can add description for this section.  ADD FEATURES : You can add as many features as you want, where each  Feature  can have a  FEATURE ICON ,  FEATURE NAME , and  FEATURE DESCRIPTOIN .  FEATURE SECTION BUTTON TEXT : Example Value: Read More  FEATURE SECTION BUTTON URL : Example Value:  http://Google.com/", 
+            "title": "2. FEATURE SECTION SETTINGS"
+        }, 
+        {
+            "location": "/homepage/#3-cta-section-settings", 
+            "text": "Configure the CTA section on homepage.    CTA SECTION   ENABLE CTA SECTION ?  Yes  or  No .  CTA SECTION TITLE : Example Value: Call to Action Section  CTA SECTION DESCRIPTON : You can add description for this section.  CTA SECTION BUTTON TEXT : Example Value: Read More  CTA SECTION BUTTON URL : Example Value:  http://Google.com/  CTA SECTION BACKGROUND IMAGE : Make sure it is not too small and not too big. Recommended size is 1920px x 450px (Width x Height)  CTA SECTION ICON IMAGE : Make sure it is not too big. E.g. Recommended size is 50px x 50px (Width x Height)", 
+            "title": "3. CTA SECTION SETTINGS"
+        }, 
+        {
+            "location": "/homepage/#4-destination-section-settings", 
+            "text": "Configure the Destination section on homepage.    DESTINATION SECTION   ENABLE Destination SECTION ?  Yes  or  No .  DESTINATION SECTION TITLE : Example Value: Popular Destinations  Destination SECTION DESCRIPTON : You can add description for this section.  SELECT POPULAR DESTINATIONS : You can select any number of popular destinations here.     NOTE  This section looks best when 4 or 7 destinations are selected.    If no destinations are being displayed, then you need to add a few destinations via Destinations Page. (Make sure you have added feature images to the destinations you select here since these feature images will be displayed at the homepage).    To reorder how destinations get displayed on the homepage, edit a Destination to add order. (Lower value has more priority i.e.  10  order will get displayed before  20  order).", 
+            "title": "4. DESTINATION SECTION SETTINGS"
+        }, 
+        {
+            "location": "/homepage/#5-steps-section-settings", 
+            "text": "Configure the Steps section on homepage.    STEPS SECTION   ENABLE STEPS SECTION ?  Yes  or  No .  ENABLE STEPS SECTION BACKGROUND (ARROW PASSING THROUGH THE STEPS)?  Yes  or  No . Which only looks good if you have 3 steps and not more!  STEPS SECTION TITLE : Example Value: How Does It Work?  Destination SECTION DESCRIPTON : You can add description for this section.   STEPS : You can add as many steps as you want, a single step contains:  1\n2\n3 STEP ICON\nSTEP NAME\nSTEP DESCRIPTOIN     STEPS SECTION BUTTON TEXT : Example Value: Read More   STEPS SECTION BUTTON URL : Example Value:  https://Google.com/", 
+            "title": "5. STEPS SECTION SETTINGS"
+        }, 
+        {
+            "location": "/homepage/#6-featured-rentals-settings", 
+            "text": "Configure the Featured Rentals section on homepage.    FEATURED RENTALS SECTION   ENABLE FEATURED RENTALS SECTION ?  Yes  or  No .  FEATURED RENTALS SECTION TITLE : Example Value: Featured Rentals  FEATURED RENTALS DESCRIPTON : You can add description for this section.  FEATURED RENTALS : You can add 2, 4, 6, 8, or 10 featured rentals.", 
+            "title": "6. FEATURED RENTALS SETTINGS"
+        }, 
+        {
+            "location": "/homepage/#7-testimonial-news-settings", 
+            "text": "Configure the TESTIMONIAL   NEWS section on homepage.    TESTIMONIAL   NEWS SECTION   ENABLE TESTIMONIAL   NEWS SECTION ?  Yes  or  No .  TESTIMONIAL   NEWS SECTION TITLE : Example Value: HAPPY CUSTOMERS!   TESTIMONIALS : You can add as many testimonials as you want. Each testimonial has:  1\n2\n3\n4\n5 TESTIMONIAL USER IMAGE\n(OPTIONAL) TESTIMONIAL URL LINK\nTESTIMONIAL USER S NAME\nTESTIMONIAL USER S DETAILS\nTESTIMONIAL TEXT     NEWS TITLE : Title for News section.   NEWS BUTTON TEXT : News button text.", 
+            "title": "7. TESTIMONIAL &amp; NEWS SETTINGS"
+        }, 
+        {
+            "location": "/rentals-search/", 
+            "text": "", 
+            "title": "RENTALS SEARCH"
+        }, 
+        {
+            "location": "/login/", 
+            "text": "LOGIN\n\n\nTo create membership on your site you need to add a \nLogin\n page. \n\n\n\n\nAdd LOGIN page\n\n\n\n\nGO TO\n WordPress admin dashboard \n \nPages \n Add New\n.\n\n\nSELECT\n \nLOGIN VR\n template and \nPublish\n the page.\n\n\nCONFIGURE\n: Set the login page in \nAppearance \n Customize \n Vacation Rentals Options \n Membership\n \u2014 \ncheck documentation\n!", 
+            "title": "LOGIN"
+        }, 
+        {
+            "location": "/login/#login", 
+            "text": "To create membership on your site you need to add a  Login  page.    Add LOGIN page   GO TO  WordPress admin dashboard    Pages   Add New .  SELECT   LOGIN VR  template and  Publish  the page.  CONFIGURE : Set the login page in  Appearance   Customize   Vacation Rentals Options   Membership  \u2014  check documentation !", 
+            "title": "LOGIN"
+        }, 
+        {
+            "location": "/register/", 
+            "text": "REGISTER\n\n\nTo create membership on your site you need to add a \nREGISTER\n page. \n\n\n\n\nAdd REGISTER page\n\n\n\n\nGO TO\n WordPress admin dashboard \n \nPages \n Add New\n.\n\n\nSELECT\n \nREGISTER VR\n template and \nPublish\n the page.\n\n\nCONFIGURE\n: Set the REGISTER page in \nAppearance \n Customize \n Vacation Rentals Options \n Membership\n \u2014 \ncheck documentation\n!", 
+            "title": "REGISTER"
+        }, 
+        {
+            "location": "/register/#register", 
+            "text": "To create membership on your site you need to add a  REGISTER  page.    Add REGISTER page   GO TO  WordPress admin dashboard    Pages   Add New .  SELECT   REGISTER VR  template and  Publish  the page.  CONFIGURE : Set the REGISTER page in  Appearance   Customize   Vacation Rentals Options   Membership  \u2014  check documentation !", 
+            "title": "REGISTER"
+        }, 
+        {
+            "location": "/reset/", 
+            "text": "RESET\n\n\nTo create membership on your site you need to add a \nRESET\n page. \n\n\n\n\nAdd RESET page\n\n\n\n\nGO TO\n WordPress admin dashboard \n \nPages \n Add New\n.\n\n\nSELECT\n \nRESET VR\n template and \nPublish\n the page.\n\n\nCONFIGURE\n: Set the RESET page in \nAppearance \n Customize \n Vacation Rentals Options \n Membership\n \u2014 \ncheck documentation\n!", 
+            "title": "RESET"
+        }, 
+        {
+            "location": "/reset/#reset", 
+            "text": "To create membership on your site you need to add a  RESET  page.    Add RESET page   GO TO  WordPress admin dashboard    Pages   Add New .  SELECT   RESET VR  template and  Publish  the page.  CONFIGURE : Set the RESET page in  Appearance   Customize   Vacation Rentals Options   Membership  \u2014  check documentation !", 
+            "title": "RESET"
+        }, 
+        {
+            "location": "/edit-profile/", 
+            "text": "EDIT PROFILE\n\n\nTo create membership on your site you need to add a \nEDIT PROFILE\n page. \n\n\n\n\nAdd EDIT PROFILE page\n\n\n\n\nGO TO\n WordPress admin dashboard \n \nPages \n Add New\n.\n\n\nSELECT\n \nEDIT PROFILE VR\n template and \nPublish\n the page.", 
+            "title": "EDIT PROFIE"
+        }, 
+        {
+            "location": "/edit-profile/#edit-profile", 
+            "text": "To create membership on your site you need to add a  EDIT PROFILE  page.    Add EDIT PROFILE page   GO TO  WordPress admin dashboard    Pages   Add New .  SELECT   EDIT PROFILE VR  template and  Publish  the page.", 
+            "title": "EDIT PROFILE"
+        }, 
+        {
+            "location": "/favorite/", 
+            "text": "FAVORITE RENTALS\n\n\nRegistered users can favorite rentals. These rentals are displayed on a page called \nFAVORITE RENTALS\n. You can add this page as follows.\n\n\n\n\nAdd EDIT PROFILE page\n\n\n\n\nGO TO\n WordPress admin dashboard \n \nPages \n Add New\n.\n\n\nSELECT\n \nUSER FAVORITES VR\n template and \nPublish\n the page.\n\n\nSELECT\n \nUSER FAVORITES VR\n template and \nPublish\n the page.\n\n\nHEADER BACKGROUND IMAGE\n: Add header background.\n\n\nDESCRIPTON\n: Add description to the favorite page.", 
+            "title": "FAVORITE"
+        }, 
+        {
+            "location": "/favorite/#favorite-rentals", 
+            "text": "Registered users can favorite rentals. These rentals are displayed on a page called  FAVORITE RENTALS . You can add this page as follows.   Add EDIT PROFILE page   GO TO  WordPress admin dashboard    Pages   Add New .  SELECT   USER FAVORITES VR  template and  Publish  the page.  SELECT   USER FAVORITES VR  template and  Publish  the page.  HEADER BACKGROUND IMAGE : Add header background.  DESCRIPTON : Add description to the favorite page.", 
+            "title": "FAVORITE RENTALS"
+        }, 
+        {
+            "location": "/rentals-list/", 
+            "text": "", 
+            "title": "RENTALS LIST"
         }, 
         {
             "location": "/rentals/", 
