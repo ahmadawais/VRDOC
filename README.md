@@ -1,4 +1,4 @@
 # VR Doc.
-Work in progress.
+VR Documentation work in progress. 
 
-! Copyright Ahmad Awais — WPTie.
+Copyright WPCouple(Ahmad Awais & Maedah Batool)
