@@ -163,9 +163,9 @@ General Theme settings can be customized from here. You can make following chang
 !!!success ""
 
     - **DISABLE** Page Load Animation.
-    - **DISPLAY** page load animations.
+    - **DISPLAY** Page Load Animation.
     - **OPEN** Navigation Menu by default.
-    - **DISPLAY** navigation Menu by default.
+    - **DISPLAY** Navigation Menu by default.
 
 ![img](img/vr-11.jpg)
 

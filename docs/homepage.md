@@ -112,8 +112,8 @@ Configure the Steps section on homepage.
 
 !!!summary "STEPS SECTION"
     
-    - **ENABLE STEPS SECTION**? `Yes` or `No`.
-    - ENABLE STEPS SECTION BACKGROUND (ARROW PASSING THROUGH THE STEPS)? `Yes` or `No`. Which only looks good if you have 3 steps and not more!
+    - **ENABLE STEPS SECTION?** `Yes` or `No`.
+    - **ENABLE STEPS SECTION BACKGROUND (ARROW PASSING THROUGH THE STEPS)?** `Yes` or `No`. Which only looks good if you have 3 steps and not more!
     - **STEPS SECTION TITLE**: Example Value: How Does It Work?
     - **Destination SECTION DESCRIPTON**: You can add description for this section.
     - **STEPS**: You can add as many steps as you want, a single step contains:
@@ -136,7 +136,7 @@ Configure the Featured Rentals section on homepage.
 
 !!!summary "FEATURED RENTALS SECTION"
     
-    - **ENABLE FEATURED RENTALS SECTION**? `Yes` or `No`.
+    - **ENABLE FEATURED RENTALS SECTION?** `Yes` or `No`.
     - **FEATURED RENTALS SECTION TITLE**: Example Value: Featured Rentals
     - **FEATURED RENTALS DESCRIPTON**: You can add description for this section.
     - **FEATURED RENTALS**: You can add 2, 4, 6, 8, or 10 featured rentals.
@@ -151,7 +151,7 @@ Configure the TESTIMONIAL & NEWS section on homepage.
 
 !!!summary "TESTIMONIAL & NEWS SECTION"
     
-    - **ENABLE TESTIMONIAL & NEWS SECTION**? `Yes` or `No`.
+    - **ENABLE TESTIMONIAL & NEWS SECTION?** `Yes` or `No`.
     - **TESTIMONIAL & NEWS SECTION TITLE**: Example Value: HAPPY CUSTOMERS!
     - **TESTIMONIALS**: You can add as many testimonials as you want. Each testimonial has:
 

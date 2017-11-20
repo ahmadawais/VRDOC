@@ -14,7 +14,7 @@ Rentals search page is needed for the theme's search to work.
     - **HIDE DESTINATION?**: Check to hide Destination on this search page?
     - **HIDE TYPE?**: Check to hide Type on this search page?
     - **HIDE FEATURE?**: Check to hide Feature on this search page?
-    - **HHide Check In & Check Out?**: Check to hide Check In & Check Out on this search page?
+    - **Hide Check In & Check Out?**: Check to hide Check In & Check Out on this search page?
     - **HIDE DESCRIPTION?**: Check to hide Description? on this search page?
     - **HIDE SORTING?**: Check to hide Sorting? on this search page?
 

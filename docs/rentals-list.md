@@ -10,7 +10,7 @@ You can create as many custom rentals listings as you want.
     - **SELECT** `RENTAL LIST VR` template and `Publish` the page.
     - **HEADER BACKGROUND IMAGE**: Add header background. Make sure the image is not too small and not too big. Recommended size is `1920px x 450px` (Width x Height).
     - **DESCRIPTON**: Add description to the custom rentals list page.
-    - **NUMBER OF RENTALS PER PAGE**: Any number e.g. 6
+    - **NUMBER OF RENTALS PER PAGE**: Any number e.g. 6.
     - **ORDER RENTALS BY**
 
             MINIMUM BEDS
