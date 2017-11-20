@@ -32,10 +32,10 @@ To add the `Booking` you can fill the information asked of you on this screen.
     - **THE RENTAL**: Select the rental you are going to book. Selected Rental's value cannot be changed once it is set either manually or automatically. If you haven't added a rental then add a new RENTAL!
 
 !!!summary "BOOKING INFORMATION"
-    - **CHECKIN DATE** (Year-Month-Day) 
-    - **CHECKOUT DATE**(Year-Month-Day)
-    - **GUESTS** Add number of guests. Example Value: 2
-    - **NAME** Name of the person booking the rental. Booked By, E.g. John
+    - **CHECKIN DATE** (Year-Month-Day). 
+    - **CHECKOUT DATE** (Year-Month-Day).
+    - **GUESTS** Add number of guests. Example Value: 2.
+    - **NAME** Name of the person booking the rental. Booked By, E.g. John.
     - **EMAIL** ID of the person booking the rental. Example Value: john@gmail.com
     - **PRIVATE NOTE**: Keep a private note about this rental booking. This field will not be displayed anywhere else.
 
