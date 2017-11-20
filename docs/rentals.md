@@ -38,7 +38,7 @@ You can add following basic information to a rental listing.
 
 !!!summary ""
 
-    - **RENT PRICE**: (DIGITS ONLY) — Example Value: 450
+    - **RENT PRICE: (DIGITS ONLY)** — Example Value: 450
     - **PRICE POSTFIX** — Example Value: Per Night
     - **BEDROOMS** — Example Value: 4
     - **BATHROOMS** — Example Value: 2
@@ -70,7 +70,7 @@ You can add rental video to a rental listing.
 
 !!!summary ""
 
-    - **ADD** virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are supported
+    - **ADD** virtual tour video URL. YouTube, Vimeo, SWF File and MOV File are supported.
     - **ADD** virtual tour video placeholder image. 
     - **SIZE** of this image should be at least `730px x 400px` (width x height).
 
