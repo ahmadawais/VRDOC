@@ -2,7 +2,7 @@
 
 !!! success "UPDATED — a week ago."
 
-##Getting Started!
+## Getting Started!
 Vacation Rentals WordPress theme helps you setup your very own AirBNB style bread and breakfast site. This site serves as the documentation to help you understand this theme better. 
 
 Vacation Rentals WordPress theme is made to enforce a more natural and simpler user experience. Which is why you'll find it easy to use and fast at the same time. 

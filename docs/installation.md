@@ -1,4 +1,4 @@
-#THEME SETUP
+# THEME SETUP
 
 ## STEP #1— THEME INSTALLATION
 
@@ -15,7 +15,7 @@ Once you have a working version of WordPress, you need to do the following
 !!!summary "RECAP" 
     So, it goes like this. You download the theme files you bought, you extract them in your computer and inside the theme folder `01- Theme` you find **vr.zip** file which is the theme file you need to upload in your WordPress.
 
-###Install Theme Via WordPress Dashboard
+### Install Theme Via WordPress Dashboard
 
 - Access your WordPress site admin area. 
 - Go to `Appearance > Themes` section.
@@ -25,7 +25,7 @@ Once you have a working version of WordPress, you need to do the following
 
 ---
 
-###Alternative — Install Theme Via FTP
+### Alternative — Install Theme Via FTP
 
 !!!tip "FTP (Alternative)"
     If you face any problem during upload through dashboard, please upload the theme using FTP as guided below.

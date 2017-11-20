@@ -1,4 +1,4 @@
-#PROGRESS
+# PROGRESS
 - [x] Getting started
 - [x] Theme Setup
     - [x] Content
